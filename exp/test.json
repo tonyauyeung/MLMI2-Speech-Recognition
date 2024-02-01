@@ -1,0 +1,1538 @@
+{
+  "MDAB0_SI1039.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR1/MDAB0/SI1039.WAV",
+    "duration": 3.9424375,
+    "spk_id": "MDAB0",
+    "phn": "sil hh iy hh eh z n eh v er hh ih m s eh l f sil d ah n ey hh ih ng f ow w ih sil ch sil t ah sil b iy hh ey dx ih sil w ih sil ch ih v ah s hh ae z sil",
+    "wrd": "he has never himself done anything for which to be hated which of us has",
+    "ground_truth_phn_ends": "1994 2760 3400 4469 5723 7001 7591 9120 9720 11080 12146 12794 13550 15730 16960 17838 18544 19330 19700 20971 21317 23268 25036 26389 26840 28690 30370 31707 32320 32830 35040 35390 36318 36858 37364 37589 38558 40303 41924 42155 43617 46252 47951 48600 49152 50311 50754 51703 52915 54400 54760 57956 60580 62960"
+  },
+  "MDAB0_SI1669.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR1/MDAB0/SI1669.WAV",
+    "duration": 2.0608125,
+    "spk_id": "MDAB0",
+    "phn": "sil b iy ih sil k s ay dx ih sil d ih n sil d ow n ah sil d eh n ah f ay er s eh l f sil",
+    "wrd": "be excited and don't identify yourself",
+    "ground_truth_phn_ends": "2200 2540 4052 4687 5010 5347 7018 8954 9230 10694 11280 11450 12337 13260 13747 13985 15267 15665 16760 17169 17560 18760 19160 19800 21080 22767 24020 25942 27426 28090 30412 32880"
+  },
+  "MDAB0_SX49.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR1/MDAB0/SX49.WAV.wav",
+    "duration": 2.201625,
+    "spk_id": "MDAB0",
+    "phn": "sil ae sil t sil w aa l ay sil t ah m ah sil t sil w eh l th sil d ey w l hh ae v sh ah sil b l iy sil",
+    "wrd": "at twilight on the twelfth day we'll have chablis",
+    "ground_truth_phn_ends": "2320 4052 5060 5920 6560 6949 8271 9360 10720 11290 11890 12760 13302 13962 14245 15366 16000 16480 17439 17960 18520 19449 19880 21886 22516 23352 24329 25520 25942 27697 28280 29070 29350 30412 32237 35120"
+  },
+  "MDAB0_SI2299.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR1/MDAB0/SI2299.WAV",
+    "duration": 2.5984375,
+    "spk_id": "MDAB0",
+    "phn": "sil s ah m sil t ay m s iy sil k ow ah n s ay dx ah w ah th m ay f aa dh ih z sil b iy ng eh sil t hh ow m sil",
+    "wrd": "sometimes he coincided with my father's being at home",
+    "ground_truth_phn_ends": "2580 3963 4971 5604 6050 6660 7895 8540 9859 10840 11690 12830 14203 14812 15196 16960 18673 18968 19648 20428 21160 22275 22654 24120 25540 27230 27577 28590 30090 31045 31321 33127 34046 35034 35252 35592 36272 38691 39480 41520"
+  },
+  "MDAB0_SX409.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR1/MDAB0/SX409.WAV.wav",
+    "duration": 2.88,
+    "spk_id": "MDAB0",
+    "phn": "sil iy dx iy ng s sil p ih n eh sil ch sil n ay sil l iy ih ng sil k r iy s ih s sil t r eh n sil th sil m er ae sil k y ah l ih s l iy sil",
+    "wrd": "eating spinach nightly increases strength miraculously",
+    "ground_truth_phn_ends": "2129 3482 3960 4929 5866 7821 8360 8898 9733 10194 11440 11860 13180 13640 14304 16609 16924 17712 19091 20175 20489 20920 22440 22841 23480 24970 25650 27404 27920 28430 28908 29598 30044 30621 31440 31800 32207 33295 35266 35759 36721 37070 37535 38352 38767 40553 41466 42517 46000"
+  },
+  "MDAB0_SX319.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR1/MDAB0/SX319.WAV.wav",
+    "duration": 2.4384375,
+    "spk_id": "MDAB0",
+    "phn": "sil ey sil b iy sil g ow sil ay dx ah l iy ae m sil b l sil th uw dh ih f aa r m y aa r sil d sil",
+    "wrd": "a big goat idly ambled through the farmyard",
+    "ground_truth_phn_ends": "2120 3480 4750 5000 6520 7860 8310 11520 13000 14920 15480 16334 17169 17911 20875 21340 21720 21923 23045 23744 25190 25623 26151 26600 28440 29618 30680 31665 32710 33963 34940 35466 36344 38960"
+  },
+  "MDAB0_SX139.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR1/MDAB0/SX139.WAV.wav",
+    "duration": 2.361625,
+    "spk_id": "MDAB0",
+    "phn": "sil dh ah sil b ah ng sil g l ow w ah z sil p l ah z n l ih s ih sil ch ah w ih dx ih sil n ih dh ih sh aa r sil",
+    "wrd": "the bungalow was pleasantly situated near the shore",
+    "ground_truth_phn_ends": "2120 2436 3280 4250 4570 6160 6720 7060 7320 8814 10694 11613 12281 13242 14120 14950 15340 16120 17326 18169 18673 19509 21347 22129 22670 23561 23853 24576 25339 25720 26853 27640 27937 29034 29560 30090 32270 34234 34966 37680"
+  },
+  "MDAB0_SX229.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR1/MDAB0/SX229.WAV",
+    "duration": 1.305625,
+    "spk_id": "MDAB0",
+    "phn": "sil aa r y ih l uh sil k iy n f r ow m sil p l oy m ih sil t sil",
+    "wrd": "are you looking for employment",
+    "ground_truth_phn_ends": "2120 3039 3565 4219 4730 5232 5694 5995 6850 7770 8200 9260 9775 11040 11560 11970 13010 13827 14913 15749 16680 17330 18464 20800"
+  },
+  "MWBT0_SX383.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR1/MWBT0/SX383.WAV.wav",
+    "duration": 3.904,
+    "spk_id": "MWBT0",
+    "phn": "sil dh ih sil k aa sil p ih sil k l iy n er z sil sh ae m sil p uw sil d aa r aa r iy eh n sil t l r ah sil g sil",
+    "wrd": "the carpet cleaners shampooed our oriental rug",
+    "ground_truth_phn_ends": "2520 2776 3392 4260 5310 7317 8170 8484 9190 10692 11962 12866 14419 15021 17960 20344 21800 24260 27280 27989 29010 30080 34280 34789 35103 37506 38840 41853 43148 45111 46179 46699 47420 48240 50083 51545 54747 56215 56760 62400"
+  },
+  "MWBT0_SI1553.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR1/MWBT0/SI1553.WAV",
+    "duration": 4.75525,
+    "spk_id": "MWBT0",
+    "phn": "sil hh aw eh v ah dh ah l ih dx er r iy m ey n sil d aa sil m eh n sil t ih sil b ay s eh v r l sil d ah z ih n l ah n sil ch r uw m sil s ah sil p er z sil",
+    "wrd": "however the litter remained augmented by several dozen lunchroom suppers",
+    "ground_truth_phn_ends": "2440 3120 5389 7320 8360 9315 10200 11571 12920 14040 14600 15415 16760 18381 19676 23254 23716 24020 24260 27960 29413 29861 31554 31952 32500 33280 34120 35708 35950 38610 41497 42854 43800 44567 45640 47470 47830 50290 51290 52212 53476 54969 56320 56741 57812 59975 60598 62085 63073 63780 65880 67360 68400 68880 71060 73360 76000"
+  },
+  "MWBT0_SI2183.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR1/MWBT0/SI2183.WAV",
+    "duration": 1.8944375,
+    "spk_id": "MWBT0",
+    "phn": "sil b uh sil k s ah f ah sh sil n uh sil k s sil",
+    "wrd": "books are for schnooks",
+    "ground_truth_phn_ends": "2148 2430 4488 5600 6000 7985 9720 11350 13010 15940 16520 17240 19000 20219 20971 24500 30240"
+  },
+  "MWBT0_SX203.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR1/MWBT0/SX203.WAV",
+    "duration": 3.129625,
+    "spk_id": "MWBT0",
+    "phn": "sil dh ih sil k aa z sil w ey ih n sil d ih sil d ah sil b r ah sil p l iy sil eh sil dh ah sh aa r sil",
+    "wrd": "the causeway ended abruptly at the shore",
+    "ground_truth_phn_ends": "2280 2565 3289 4280 5470 9000 9900 10640 11655 14621 15920 16520 16920 17200 18440 18870 19210 20640 22470 22810 23673 25400 26610 27570 28793 31240 33963 36440 37420 38060 38620 41210 45409 46916 50000"
+  },
+  "MWBT0_SX113.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR1/MWBT0/SX113.WAV.wav",
+    "duration": 3.328,
+    "spk_id": "MWBT0",
+    "phn": "sil ey m ah s sil k ih l ah ae sil d ah m eh n sil ih z sil g uh sil f aa y ih sil b ae sil k sil",
+    "wrd": "a muscular abdomen is good for your back",
+    "ground_truth_phn_ends": "2141 4360 5640 7430 9280 9640 10600 11488 12992 14723 18520 20247 20600 21320 22280 24920 25960 28440 30449 31880 32960 33450 35080 35800 38190 39480 40200 41640 42910 43300 48311 49779 50920 53200"
+  },
+  "MWBT0_SI923.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR1/MWBT0/SI923.WAV.wav",
+    "duration": 2.96325,
+    "spk_id": "MWBT0",
+    "phn": "sil t uh m eh n iy eh sil k s sil p er sil t s dh ih s sil t r eh n sil w ah z ih n eh v ah dx ah sil b l sil",
+    "wrd": "to many experts this trend was inevitable",
+    "ground_truth_phn_ends": "2340 3180 3960 5054 6360 6840 8898 10760 11410 11822 13480 14280 14612 17800 18550 19001 20720 21800 23080 24563 25170 26870 27633 29160 29960 30682 31716 32668 33600 34760 35718 37640 38520 39480 39960 41000 42000 42240 45360 47360"
+  },
+  "MWBT0_SX23.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR1/MWBT0/SX23.WAV.wav",
+    "duration": 3.168,
+    "spk_id": "MWBT0",
+    "phn": "sil dh ow z sil m y uw z ih sh ih n z hh aa m ah n ay z sil m aa v l l ah s l ih sil",
+    "wrd": "those musicians harmonize marvelously",
+    "ground_truth_phn_ends": "2353 2720 5800 7101 7800 8240 9176 11050 12910 14960 16670 18422 20010 21040 22120 24369 25247 26081 26805 31010 31750 32583 32961 35885 37000 37556 38224 39560 41820 42853 44920 50640"
+  },
+  "MWBT0_SX293.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR1/MWBT0/SX293.WAV.wav",
+    "duration": 3.6224375,
+    "spk_id": "MWBT0",
+    "phn": "sil p l iy z sil t ey sil dh ih s sil d er dx iy sil t ey sil b uh sil k l aa th sil t ih dh ih sil k l iy n ih z f ah m ey sil",
+    "wrd": "please take this dirty table cloth to the cleaners for me",
+    "ground_truth_phn_ends": "2180 3648 4440 5880 8040 8410 9210 11160 12312 12973 14440 16059 17090 17530 19720 20200 21560 22480 23800 25680 26480 26720 27640 28740 29962 31186 33600 35240 35900 36610 37400 38200 38760 39950 41130 41966 43515 44182 46047 47885 49190 50120 51400 54200 57840"
+  },
+  "FELC0_SX126.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR1/FELC0/SX126.WAV.wav",
+    "duration": 2.912,
+    "spk_id": "FELC0",
+    "phn": "sil aa r dx ih f ih sh l ih n sil t eh l ih sil jh ih n s ih z f er r iy l sil",
+    "wrd": "artificial intelligence is for real",
+    "ground_truth_phn_ends": "2040 3634 4093 4388 5112 6810 7781 9775 11195 11840 12556 12934 14054 15206 16334 16960 17540 18422 19267 20410 22352 23120 24856 26220 27272 29117 31289 33253 46560"
+  },
+  "FELC0_SI1386.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR1/FELC0/SI1386.WAV.wav",
+    "duration": 5.52325,
+    "spk_id": "FELC0",
+    "phn": "sil ih n w ey sil jh n ih sil g ow sh iy ey sh ih n s sil dh iy ih n sil d ih s sil t r iy sil b aa r sil g ih n z eh z ey y uw n ih w ih dh ih s ih ng sil g l y uw n y ih n sil",
+    "wrd": "in wage negotiations the industry bargains as a unit with a single union",
+    "ground_truth_phn_ends": "2120 3220 4553 6391 9232 9800 11968 12720 13320 14328 14690 16543 18817 20010 22384 24522 25524 27450 29450 29840 30380 31874 32800 33520 33790 34160 34840 36440 36740 37528 38033 38852 39800 40099 41650 43146 44068 44327 45276 46694 48200 50119 51363 52253 54007 55640 56040 57155 59898 60315 60900 61589 64036 64911 65798 66180 66404 68218 70091 71386 72103 73057 74059 75411 88320"
+  },
+  "FELC0_SX216.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR1/FELC0/SX216.WAV.wav",
+    "duration": 2.19525,
+    "spk_id": "FELC0",
+    "phn": "sil dh ah s sil m aa l sil b oy sil p uh sil dh ah w er m ah n dh ah hh uh sil k sil",
+    "wrd": "the small boy put the worm on the hook",
+    "ground_truth_phn_ends": "2255 2473 3000 5175 5452 6320 8104 9200 9940 10410 13600 14621 15580 16155 17160 17480 18172 19634 22099 23271 24563 25903 26151 26736 27937 29960 31451 33458 35120"
+  },
+  "FELC0_SX396.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR1/FELC0/SX396.WAV",
+    "duration": 3.8208125,
+    "spk_id": "FELC0",
+    "phn": "sil dh ih f ih sh sil b ih sil g ae n sil t ih l iy sil f r ae n sil t ih sil k l iy ah n dh ah s er f ah s ah v dh ih s m aa l ey sil k sil",
+    "wrd": "the fish began to leap frantically on the surface of the small lake",
+    "ground_truth_phn_ends": "2135 2300 2955 5140 6651 8890 9663 10000 10610 11270 11700 13840 14370 14687 15350 15791 17336 18687 19926 21639 22326 23640 24200 24760 25400 26067 26890 27870 28699 29911 30953 31994 32205 32553 34895 36971 38190 38785 41065 41760 42440 43160 43760 45970 47281 49394 51399 54040 55387 56999 61120"
+  },
+  "FELC0_SX306.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR1/FELC0/SX306.WAV",
+    "duration": 2.496,
+    "spk_id": "FELC0",
+    "phn": "sil ah sil ch ow z ih n f y uw w l sil b iy sil k ah m sil jh eh n er l s sil",
+    "wrd": "a chosen few will become generals",
+    "ground_truth_phn_ends": "2120 3129 3900 5469 7904 9390 9840 11000 13380 14621 16167 17378 18440 19360 19600 20520 21380 22320 23539 24518 24956 25817 27640 28280 29911 31913 36570 39920"
+  },
+  "FELC0_SI2016.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR1/FELC0/SI2016.WAV",
+    "duration": 3.4048125,
+    "spk_id": "FELC0",
+    "phn": "sil hh iy v aa n ow z r ow sil p s sil dh ih sil b ow sil s sil k ah m ah n s sil t ah sil k sil",
+    "wrd": "heave on those ropes the boat's come unstuck",
+    "ground_truth_phn_ends": "2200 3470 5723 6725 8720 10184 12365 14106 15415 18300 20050 20220 23644 27279 27700 28198 29530 29740 32119 32780 34422 35200 36318 37525 38642 39939 41257 43739 44380 44840 47200 48940 50880 54400"
+  },
+  "FELC0_SI756.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR1/FELC0/SI756.WAV",
+    "duration": 4.192,
+    "spk_id": "FELC0",
+    "phn": "sil m ih sil t ih r iy ih l s sil s er r ae m ih sil m aa dx l ih ng sil k l ey sil r eh sil d w ay sil aa r sil b aa f sil",
+    "wrd": "materials ceramic modeling clay red white or buff",
+    "ground_truth_phn_ends": "2440 3174 3628 4530 5820 6976 8271 9733 10193 11799 15625 18430 20960 21765 23060 24577 25405 26510 28200 28926 31122 31447 32960 34257 35080 35713 37390 38684 42200 45360 46897 48821 49660 49933 51868 54407 54679 56476 57432 58810 59140 61662 65248 67040"
+  },
+  "FELC0_SX36.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR1/FELC0/SX36.WAV.wav",
+    "duration": 3.52,
+    "spk_id": "FELC0",
+    "phn": "sil ow n l ih dh ih m ow s sil t ih sil k aa m sil p l ih sh sil aa r dx ih s ah sil t ey n sil p aa sil p ih l eh er dx iy sil",
+    "wrd": "only the most accomplished artists obtain popularity",
+    "ground_truth_phn_ends": "4120 5681 6529 7101 8108 9029 9499 10909 12950 14680 15060 15570 16040 16720 18061 20080 20634 21407 21834 22391 22990 25120 25961 28164 29400 29800 31164 34028 34605 36375 37222 39060 40111 40445 41274 42987 44073 44742 45326 46287 47833 49964 50570 52011 53097"
+  },
+  "MBPM0_SI1577.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR5/MBPM0/SI1577.WAV.wav",
+    "duration": 1.97125,
+    "spk_id": "MBPM0",
+    "phn": "sil b r aw n ay z ay sil b r aw m ah s sil t ae sh sil",
+    "wrd": "brown eyes eyebrow mustache",
+    "ground_truth_phn_ends": "3768 3929 4660 6348 6932 10775 11769 14579 15823 16003 16875 19346 20629 21251 22604 23240 23467 26526 29547 31440"
+  },
+  "MBPM0_SX47.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR5/MBPM0/SX47.WAV.wav",
+    "duration": 2.1568125,
+    "spk_id": "MBPM0",
+    "phn": "sil m aa m s sil t r ah ng l iy sil d ih s l ay sil k s ae sil p ah sil t ay z er s sil",
+    "wrd": "mom strongly dislikes appetizers",
+    "ground_truth_phn_ends": "1840 2988 5014 6105 7041 7618 8234 8772 9959 10930 11372 12161 13480 13690 14520 16155 16873 18495 19265 19459 20286 21895 22900 23060 23504 24520 24950 27270 28414 30107 32369 34400"
+  },
+  "MBPM0_SI947.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR5/MBPM0/SI947.WAV.wav",
+    "duration": 3.09125,
+    "spk_id": "MBPM0",
+    "phn": "sil f y uw r er ah l eh r iy ih z er sil p er sil t eh sil t ih sil b ay z ow n ih ng sil",
+    "wrd": "few rural areas are protected by zoning",
+    "ground_truth_phn_ends": "7035 10159 11321 12760 14080 16041 17086 18040 19718 20804 22015 22620 23686 24468 25420 25800 26271 27460 28060 29371 30088 30840 31417 32919 33111 35040 36095 37960 38577 39397 40763 49360"
+  },
+  "MBPM0_SX227.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR5/MBPM0/SX227.WAV.wav",
+    "duration": 1.7728125,
+    "spk_id": "MBPM0",
+    "phn": "sil ih sil t s hh eh l th y er sil d ih sil k uh sil k w ih th aw sil sh uh sil er sil",
+    "wrd": "it's healthier to cook without sugar",
+    "ground_truth_phn_ends": "2141 3160 3680 3913 4800 5340 6386 6926 8728 9226 10254 10846 11038 11782 12870 13667 14520 15560 15925 16201 16680 17920 19806 20447 22326 23360 23865 25519 28320"
+  },
+  "MBPM0_SX407.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR5/MBPM0/SX407.WAV",
+    "duration": 2.54725,
+    "spk_id": "MBPM0",
+    "phn": "sil l ae f sil d ae n sil t s n s ih ng ih f aa r sil ch ih n s sil m ay l z ah sil p aa n y uw sil",
+    "wrd": "laugh dance and sing if fortune smiles upon you",
+    "ground_truth_phn_ends": "2122 3020 5091 6196 6889 7216 8826 9351 9810 9884 10897 12010 13960 16040 17406 18477 20800 21666 22159 22560 23912 24258 25512 27144 27698 28301 30286 31184 32319 32832 34180 34585 36239 37297 38182 38919 40640"
+  },
+  "MBPM0_SX317.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR5/MBPM0/SX317.WAV",
+    "duration": 2.329625,
+    "spk_id": "MBPM0",
+    "phn": "sil dh ih sil k r eh n sil b er iy sil b aa sil g ih sil t s sil v er r iy sil p r ih dx iy eh n aa dx ah m sil",
+    "wrd": "the cranberry bog gets very pretty in autumn",
+    "ground_truth_phn_ends": "2186 2570 3193 4030 5200 5759 6806 7826 8159 8319 9524 10698 12333 12564 15582 17770 17974 18520 19220 19635 20423 20892 21411 22224 22851 23974 25710 26220 26603 27370 27902 29486 30400 31129 33412 33681 34449 35552 37200"
+  },
+  "MBPM0_SI1584.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR5/MBPM0/SI1584.WAV",
+    "duration": 3.79525,
+    "spk_id": "MBPM0",
+    "phn": "sil r eh sil k sil t er w ih z aa f ih n sil k y er iy ih s sil aa f ih n sil t eh m sil t ih sil t ae s sil k w eh s sil ch ih n z sil b ih dx iy n eh v er sil d ih sil",
+    "wrd": "rector was often curious often tempted to ask questions but he never did",
+    "ground_truth_phn_ends": "2160 2715 3591 4001 4270 4739 5400 6200 6754 7607 8582 10646 12192 12461 13461 14530 15544 16167 17002 18130 19773 22293 23563 25358 26929 27301 28096 28930 29520 30692 31244 32580 33000 33560 34740 35070 37480 38561 39520 40152 40834 41841 42650 43303 43964 44380 45557 46323 47818 48010 48247 48584 49712 50918 52284 53131 54145 55132 55324 57341 60640"
+  },
+  "MBPM0_SX137.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR5/MBPM0/SX137.WAV.wav",
+    "duration": 3.7248125,
+    "spk_id": "MBPM0",
+    "phn": "sil t r ih sil d ih sh ih n r er sil k w aa er z sil f er eh n l ah sil p r uw v l f r ah ah n sil d er ey sil jh sil m ae r ih sil jh sil",
+    "wrd": "tradition requires parental approval for under age marriage",
+    "ground_truth_phn_ends": "11780 12740 12886 13072 13893 14079 15287 17110 17560 18008 18605 19800 20519 21475 22140 23644 24603 25726 26360 27655 28281 29640 30200 31373 32648 34300 34850 35326 36392 37470 38630 40720 40836 41221 42920 43511 43991 44344 45778 48051 48866 49818 50350 51293 53130 54007 54719 55920 57189 59520"
+  },
+  "MKLT0_SX133.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR5/MKLT0/SX133.WAV.wav",
+    "duration": 2.64325,
+    "spk_id": "MKLT0",
+    "phn": "sil p iy sil s er iy er z er sil k n v iy n y ih sil f aa r sil k w ih sil k l ah n sil ch sil",
+    "wrd": "pizzerias are convenient for quick lunch",
+    "ground_truth_phn_ends": "1960 2840 3480 3937 4920 6475 7644 9315 10360 11240 11613 12501 13548 14275 15880 16421 16893 17378 18015 19394 20280 20680 21800 23080 23477 24600 25154 25737 26861 28747 29216 29877 31720 42240"
+  },
+  "MKLT0_SX403.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR5/MKLT0/SX403.WAV.wav",
+    "duration": 2.752,
+    "spk_id": "MKLT0",
+    "phn": "sil hh ah w aa r sil d r ow sil k n s ih s sil s ah v ow n l iy s sil k er sil s ah n sil b l aw z ih z sil",
+    "wrd": "her wardrobe consists of only skirts and blouses",
+    "ground_truth_phn_ends": "1240 2139 2840 4200 5426 6040 6520 7240 8146 9960 10840 11880 12950 14994 16280 17160 17640 18282 18720 19440 21400 22440 22760 23400 25280 25720 26360 28520 29075 30674 31320 32612 33000 33240 34422 37640 39106 40689 41942 44000"
+  },
+  "MKLT0_SI1213.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR5/MKLT0/SI1213.WAV.wav",
+    "duration": 2.4768125,
+    "spk_id": "MKLT0",
+    "phn": "sil m aa ow n ih sil k s sil p ih er n s ih z f aa l ow sil s ih m sil p l er l aa n z sil",
+    "wrd": "my own experience has followed simpler lines",
+    "ground_truth_phn_ends": "3242 3819 5639 7394 8146 9000 9560 9817 10630 11200 11480 12323 14312 15036 16204 17000 18080 19000 20929 21440 22427 22998 24935 25822 26345 26680 27580 28466 29320 30680 34335 35937 37389 39600"
+  },
+  "MKLT0_SX43.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR5/MKLT0/SX43.WAV",
+    "duration": 2.016,
+    "spk_id": "MKLT0",
+    "phn": "sil eh l sil er l iy sil p iy sil p l er aa f ih n ih sil k s sil k l uw dx ih sil d sil",
+    "wrd": "elderly people are often excluded",
+    "ground_truth_phn_ends": "1979 3174 4084 4585 5472 6600 7800 8600 9560 11000 11400 12128 13577 15238 17799 19240 19706 20457 21400 22040 22320 23519 24200 24898 25652 27114 27967 28820 29535 30412 32240"
+  },
+  "MKLT0_SI1843.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR5/MKLT0/SI1843.WAV",
+    "duration": 3.2448125,
+    "spk_id": "MKLT0",
+    "phn": "sil sh iy w ah z r eh dx iy f aa r hh er sil g r ey dx ih sil v eh n sil ch er z ah n dh iy er r aa v l ah v er m ow sil l sil p aa r sil n er sil",
+    "wrd": "she was ready for her great adventures and the arrival of her mobile partner",
+    "ground_truth_phn_ends": "2263 4093 4887 5681 6680 7400 8313 9640 10040 10840 12280 13392 14137 14538 15160 15880 16360 17000 18280 18680 19480 20069 20971 22557 22860 23436 24520 25640 26600 27498 28397 28695 29284 29967 31039 33527 34350 35930 36933 37967 38769 39890 41695 42328 43400 44440 45640 46833 47880 48982 49517 50040 51840"
+  },
+  "MKLT0_SX313.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR5/MKLT0/SX313.WAV",
+    "duration": 3.21925,
+    "spk_id": "MKLT0",
+    "phn": "sil d r aa sil f ay f aa m z n dh ah sil b aa sil k s sil b ah f aa y uw sil g ow aw sil hh sil",
+    "wrd": "drop five forms in the box before you go out",
+    "ground_truth_phn_ends": "1960 2760 3533 4887 5430 6934 9640 11655 14328 15206 16403 17472 17724 18180 19080 19320 22066 22790 23143 23931 24400 24729 25320 26736 28449 28866 29660 30287 30721 32840 35960 49400 51160 51440"
+  },
+  "MKLT0_SI583.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR5/MKLT0/SI583.WAV",
+    "duration": 2.2848125,
+    "spk_id": "MKLT0",
+    "phn": "sil dh ih s w iy sil k ih n s ih m sil p ih th eh dx ih sil k l iy ah n d ah s sil t ae n sil d sil",
+    "wrd": "this we can sympathetically understand",
+    "ground_truth_phn_ends": "3320 3960 5665 7935 8522 9480 10040 10600 11279 12114 13880 14440 14811 15376 15880 16520 18200 19560 19880 20760 21480 22520 22976 24229 25206 26288 26615 26958 28370 28760 29262 32333 33240 33923 34715 36480"
+  },
+  "MKLT0_SX223.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR5/MKLT0/SX223.WAV",
+    "duration": 2.19525,
+    "spk_id": "MKLT0",
+    "phn": "sil p uh sil dh ah sil b uh sil ch er sil b l aa sil t ey sil b l ih n dh ih sil g er r aa sil jh sil",
+    "wrd": "put the butcher block table in the garage",
+    "ground_truth_phn_ends": "2040 2840 3640 4360 5013 5480 6680 6920 7880 8355 9560 10120 10760 11080 11906 14200 15240 16455 18475 18806 19305 20520 21700 22558 22875 23410 23849 24302 25148 26736 30600 31080 33044 35120"
+  },
+  "FNLP0_SX48.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR5/FNLP0/SX48.WAV",
+    "duration": 3.5008125,
+    "spk_id": "FNLP0",
+    "phn": "sil g r ae m ah dh er aw g r uw hh er ah sil b r ih ng ih n ih m sil p eh dx iy sil k ow sil s sil",
+    "wrd": "grandmother outgrew her upbringing in petticoats",
+    "ground_truth_phn_ends": "11610 12020 12933 14570 15936 17487 18570 19389 23147 24820 25600 26861 28040 28984 31640 32920 33200 33893 35280 36093 37360 38365 39680 40586 41070 41656 43320 43800 44720 45330 46390 49320 51390 53630 56000"
+  },
+  "FNLP0_SI1938.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR5/FNLP0/SI1938.WAV",
+    "duration": 3.2384375,
+    "spk_id": "FNLP0",
+    "phn": "sil l ay dx ih sil w ih n sil d ow z sil g l ow sil jh uw l sil b r ay sil th r uw dh ih sil d aw n sil p aa r sil",
+    "wrd": "lighted windows glowed jewel bright through the downpour",
+    "ground_truth_phn_ends": "3040 4066 6120 6600 8040 9248 10080 11200 12062 12620 12780 15160 16446 17510 17940 18590 21000 22510 23514 24939 26040 27660 28000 29117 31800 33720 34381 34966 36280 37760 38520 39040 39250 42316 43130 44176 45029 48160 49408 50076"
+  },
+  "FNLP0_SI1308.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR5/FNLP0/SI1308.WAV",
+    "duration": 5.77925,
+    "spk_id": "FNLP0",
+    "phn": "sil ih n sil d iy sil ih dx ih z sil p aa s ah sil b l sil t ih s eh sil p er ey iy l eh sil t r aa n sil p eh er m ae ng n eh dx ih sil f r ah m n uw sil k l iy er ih f eh sil s sil",
+    "wrd": "indeed it is possible to separate electron paramagnetic from nuclear effects",
+    "ground_truth_phn_ends": "9280 10400 11280 12250 12710 16640 16951 19258 19592 21280 22166 23030 23680 25880 27485 27729 28600 28800 30360 31270 32009 32580 34600 36200 37100 37800 39394 41640 43810 45147 47080 48400 49670 50243 52160 53257 54052 55065 56468 57880 59037 60854 61683 62240 64320 64839 66440 68120 69100 69426 70120 71389 72240 73600 74750 75380 75985 77489 78867 79400 81670 85560 87450 90380 92400"
+  },
+  "FNLP0_SX228.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR5/FNLP0/SX228.WAV",
+    "duration": 2.29125,
+    "spk_id": "FNLP0",
+    "phn": "sil dh ah v y uw sil p oy n sil ow v er l uh sil dh iy ow sh ih n sil",
+    "wrd": "the viewpoint overlooked the ocean",
+    "ground_truth_phn_ends": "2360 2650 3963 5406 6333 7644 8800 10020 13210 13608 14980 16751 18137 18966 20280 22360 24550 24960 26360 29160 32250 34295 35507 36640"
+  },
+  "FNLP0_SX408.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR5/FNLP0/SX408.WAV.wav",
+    "duration": 3.104,
+    "spk_id": "FNLP0",
+    "phn": "sil ay sil d r ay sil dh ih s ah sil b w ey sil b ih dx ay hh ae v ih n iy n ah f sil ch ey n sil jh sil",
+    "wrd": "i'd ride the subway but i haven't enough change",
+    "ground_truth_phn_ends": "2231 4957 5640 6560 7227 9237 10470 10760 11850 13830 15320 16580 17020 18106 20280 21270 21570 22760 23160 24981 26402 28073 29080 30480 31023 32587 33331 35138 36200 36710 38220 42641 43975 45130 46960 49600"
+  },
+  "FNLP0_SX138.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR5/FNLP0/SX138.WAV",
+    "duration": 3.616,
+    "spk_id": "FNLP0",
+    "phn": "sil dh ih sil k l ah m z iy sil k ah s sil t ih m er s sil p ih l sil s ah m ih sil s sil p ih n s ih v sil p er f y uw m sil",
+    "wrd": "the clumsy customer spilled some expensive perfume",
+    "ground_truth_phn_ends": "8860 9220 10040 10730 12020 12613 13800 14940 15800 16960 17610 18490 20120 21096 21430 22349 22851 23880 25440 27407 28350 28680 30520 31440 32480 33410 34200 35160 36280 36762 38320 39010 39350 40613 41390 42793 43879 44332 45679 46530 48200 50580 51900 54787 56679 57840"
+  },
+  "FNLP0_SI678.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR5/FNLP0/SI678.WAV.wav",
+    "duration": 2.048,
+    "spk_id": "FNLP0",
+    "phn": "sil s ae l v ey sh ih n r iy sil k ih n s ih dx er sil d sil",
+    "wrd": "salvation reconsidered",
+    "ground_truth_phn_ends": "3170 5060 6839 7522 8727 11360 13470 14936 15874 17044 18255 19070 19900 20513 21570 23380 25200 26010 28232 29520 29920 32720"
+  },
+  "FNLP0_SX318.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR5/FNLP0/SX318.WAV",
+    "duration": 3.73125,
+    "spk_id": "FNLP0",
+    "phn": "sil p l iy z sil d ih sil m aa m sil p ih sil t ey dx ah z ah sil b ah f aa r f r aa s sil t sil",
+    "wrd": "please dig my potatoes up before frost",
+    "ground_truth_phn_ends": "9920 10930 11726 13320 15000 15360 15920 18040 18440 19400 20985 21421 22249 22479 23146 23860 24890 27240 27684 29940 31180 33211 34461 34610 35640 37530 39000 39800 42190 43107 47290 49499 50038 51365 52920"
+  },
+  "MLNT0_SX102.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR3/MLNT0/SX102.WAV.wav",
+    "duration": 3.673625,
+    "spk_id": "MLNT0",
+    "phn": "sil s sil p eh sh l sil t ae s sil f aa r s ih z r eh s sil k y uw hh aa s sil t ih sil jh ih z f r ah m sil k ih sil n ae sil p er z sil",
+    "wrd": "special task forces rescue hostages from kidnappers",
+    "ground_truth_phn_ends": "2214 3425 4960 5392 6440 8146 9480 10440 11862 14520 16083 17127 17720 18882 19880 21560 22520 23844 25400 26840 27989 28600 29911 30454 31321 32467 34548 35091 35560 36440 37080 37681 38760 39728 41566 43080 43487 44026 45133 45960 47240 47961 49278 49613 51480 52120 52679 54337 56667 58720"
+  },
+  "MLNT0_SX282.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR3/MLNT0/SX282.WAV",
+    "duration": 3.193625,
+    "spk_id": "MLNT0",
+    "phn": "sil dh ih sil t uw th f er iy f ah sil g aa sil t ah sil k ah m w ih n r aa sil jh er z sil t uw th f eh l aw sil t sil",
+    "wrd": "the tooth fairy forgot to come when roger's tooth fell out",
+    "ground_truth_phn_ends": "2120 2520 3400 4200 5560 7000 8262 9320 11362 13000 14600 15320 16040 16520 18600 19640 20240 20840 22160 23271 24856 25691 26386 26929 28508 29660 31331 31624 32208 33720 35129 35640 37167 38596 40146 41160 42940 43720 46750 48269 49290 51040"
+  },
+  "MLNT0_SI642.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR3/MLNT0/SI642.WAV",
+    "duration": 4.089625,
+    "spk_id": "MLNT0",
+    "phn": "sil dh eh r sil p r aa sil p s sil w er sil t uw s sil t eh sil p l ae dx er z sil ah sil ch eh er ae n ah sil p aa m f ae n sil",
+    "wrd": "their props were two stepladders a chair and a palm fan",
+    "ground_truth_phn_ends": "2040 2360 3320 3800 5240 6475 6851 8313 8731 9084 10525 11549 11960 12866 14280 15749 19105 20845 21560 21890 23640 24600 25265 26360 28520 28920 31720 33127 34200 35560 36428 38440 40647 43089 45640 46360 47560 49038 50760 54137 55582 57686 61747 62287 65360"
+  },
+  "MLNT0_SI1902.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR3/MLNT0/SI1902.WAV.wav",
+    "duration": 1.8688125,
+    "spk_id": "MLNT0",
+    "phn": "sil dh ah sil p ah l s ih ng sil g l ow ah v ah s ih sil er r eh sil t sil",
+    "wrd": "the pulsing glow of a cigarette",
+    "ground_truth_phn_ends": "2200 2600 3320 4280 5263 6516 7640 9480 10109 11345 12156 12680 13744 15958 16520 17712 18200 20280 21240 22113 22684 23853 25720 27000 28280 29840"
+  },
+  "MLNT0_SX372.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR3/MLNT0/SX372.WAV.wav",
+    "duration": 3.1104375,
+    "spk_id": "MLNT0",
+    "phn": "sil dh eh sil d ay ih sil g r ae m ey sil k s eh n s sil ow n l iy sil ae f sil t er m ah sil sh sil t ah dx iy sil",
+    "wrd": "that diagram makes sense only after much study",
+    "ground_truth_phn_ends": "2120 2464 4017 5480 5880 8321 9080 9880 10479 11586 13400 15240 16360 17179 17587 20047 21696 22364 23268 24864 26600 27880 28359 29320 30533 32501 33560 34120 34554 35550 37497 38760 39619 41759 42840 43320 45040 45360 47089 49760"
+  },
+  "MLNT0_SX192.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR3/MLNT0/SX192.WAV",
+    "duration": 2.329625,
+    "spk_id": "MLNT0",
+    "phn": "sil s sil t r aa hh ae sil s er aw dx ah f ae sh ih n dh ih s y ih er sil",
+    "wrd": "straw hats are out of fashion this year",
+    "ground_truth_phn_ends": "2214 3467 4120 4929 5986 7812 8680 11207 11743 12783 15485 18040 18520 19720 21560 23960 25960 26612 27778 28440 29400 31830 32877 33775 34840 37200"
+  },
+  "MLNT0_SI1574.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR3/MLNT0/SI1574.WAV.wav",
+    "duration": 4.7808125,
+    "spk_id": "MLNT0",
+    "phn": "sil f l ay s sil w aa r m sil ih r aw n dh ih sil b ow l ah v l eh n sil t l z ih n w ih sil ch hh iy m aa sil th ih sil b l ae sil b r eh sil d sil",
+    "wrd": "flies swarmed around the bowl of lentils in which he mopped thick black bread",
+    "ground_truth_phn_ends": "2120 2760 3618 7000 9192 9648 10945 12449 13493 14463 14835 15624 16833 19425 20302 20551 21080 22040 22360 25160 25880 26680 27906 28950 30280 30871 31456 32446 35133 36609 38015 38754 40563 41480 41880 43160 44127 45437 47080 49480 52840 53320 54814 57800 58275 59181 61000 63720 64110 65448 68269 69124 70001 76480"
+  },
+  "MLNT0_SX12.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR3/MLNT0/SX12.WAV",
+    "duration": 2.3168125,
+    "spk_id": "MLNT0",
+    "phn": "sil w uh l r aa sil b ih n w eh er ey y eh l ow l ih l iy sil",
+    "wrd": "will robin wear a yellow lily",
+    "ground_truth_phn_ends": "3500 4511 5597 6642 7979 10360 11160 11405 12100 13193 15160 16584 18798 21597 23480 24898 26324 27613 29432 31080 32200 33400 37040"
+  },
+  "MJMP0_SX185.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR3/MJMP0/SX185.WAV.wav",
+    "duration": 2.1248125,
+    "spk_id": "MJMP0",
+    "phn": "sil d ih sil jh uw sil b ay ih n iy sil k aa r dx er oy ow v er aa l s sil",
+    "wrd": "did you buy any corduroy overalls",
+    "ground_truth_phn_ends": "2172 2879 3668 4264 4995 6057 6938 7220 10109 11571 11947 13117 13835 15039 16208 16710 17127 18966 21389 23143 24104 26109 27906 29201 31931 33997"
+  },
+  "MJMP0_SX275.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR3/MJMP0/SX275.WAV",
+    "duration": 2.77125,
+    "spk_id": "MJMP0",
+    "phn": "sil s sil t iy v w aa r ah sil b r ay sil r eh sil k ae sh m er s sil w eh dx er sil",
+    "wrd": "steve wore a bright red cashmere sweater",
+    "ground_truth_phn_ends": "2210 3885 4720 5480 8520 9640 11112 12198 13242 14040 15320 15760 16920 19240 20480 21890 24040 25820 27300 30030 30920 32400 34660 36440 37040 37773 39240 39640 41080 44240"
+  },
+  "MJMP0_SI1791.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR3/MJMP0/SI1791.WAV.wav",
+    "duration": 4.6784375,
+    "spk_id": "MJMP0",
+    "phn": "sil n ow dh ah m ae n w ah z sil n aa sil d r ah ng sil k sil hh iy w ah n sil d er sil d hh aw iy sil g aa sil t ay dx ah sil w ih th ih s sil t r ey n jh er sil",
+    "wrd": "no the man was not drunk he wondered how he got tied up with this stranger",
+    "ground_truth_phn_ends": "3120 3920 8000 8950 9600 10640 13326 14245 15106 16000 16780 17171 17760 20200 20900 22224 23227 24480 25190 26318 26986 33160 34150 34924 36595 38349 39040 39320 39600 41160 41560 41857 43109 45198 46520 47165 47470 49890 51440 52460 55120 55520 57680 59193 59960 60571 62470 63430 65288 65850 66470 67393 69240 70580 71300 72686 74800"
+  },
+  "MJMP0_SX95.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR3/MJMP0/SX95.WAV.wav",
+    "duration": 3.09125,
+    "spk_id": "MJMP0",
+    "phn": "sil ih sil g w aa n eh z eh n ae l ih sil g ey dx er z er sil t r aa sil p ah sil k l r eh sil t ay l z sil",
+    "wrd": "iguanas and alligators are tropical reptiles",
+    "ground_truth_phn_ends": "2320 4120 4640 5390 6593 9000 9560 11480 12530 13640 14120 16543 17462 18360 19190 19850 21480 21800 24220 25060 26440 27240 28640 29133 30120 30760 31400 32040 32920 33920 35007 36093 37400 39340 40240 42653 45380 46990 49360"
+  },
+  "MJMP0_SI1535.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR3/MJMP0/SI1535.WAV.wav",
+    "duration": 2.3488125,
+    "spk_id": "MJMP0",
+    "phn": "sil hh iy sil t r eh m sil b l sil l eh s sil t hh ih z sil p iy sh ih sil f ey l sil",
+    "wrd": "he trembled lest his piece should fail",
+    "ground_truth_phn_ends": "2526 3668 4495 5010 6840 7280 8160 8229 9170 9540 10960 11660 12688 14079 15720 16120 16793 17380 18600 20118 21182 22330 24610 26780 28040 28760 31150 33295 35480 37520"
+  },
+  "MJMP0_SX5.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR3/MJMP0/SX5.WAV.wav",
+    "duration": 1.6,
+    "spk_id": "MJMP0",
+    "phn": "sil sh iy ih z th ih n er dh ih n ay ae m sil",
+    "wrd": "she is thinner than i am",
+    "ground_truth_phn_ends": "2380 4780 6224 7480 9315 10360 11560 12120 14360 14990 16360 17040 20929 23360 24313 25520"
+  },
+  "MJMP0_SI905.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR3/MJMP0/SI905.WAV",
+    "duration": 2.688,
+    "spk_id": "MJMP0",
+    "phn": "sil hh ih z w er sil b iy sil g ae n jh ih s ih sil k s sil d ey z ae f sil t ah dh ah f l ah sil",
+    "wrd": "his work began just six days after the flood",
+    "ground_truth_phn_ends": "2120 3560 4520 5514 6600 8200 10450 10630 11154 11770 12407 16134 16910 17577 18780 21240 22120 22940 23268 24030 24940 25370 28430 29170 30920 31480 31930 32619 33420 33940 35000 37290 38500 40920 42960"
+  },
+  "MJMP0_SX365.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR3/MJMP0/SX365.WAV",
+    "duration": 3.89125,
+    "spk_id": "MJMP0",
+    "phn": "sil dh ih sil g ah n m ih n sil k eh sil t ih z v ih sil t ih m sil k aa n er sil eh sil g ah n sil p oy n sil f er th r iy aw er z sil",
+    "wrd": "the gunman kept his victim cornered at gunpoint for three hours",
+    "ground_truth_phn_ends": "2200 2790 3400 4130 4670 6433 7560 8689 9227 11292 11930 12880 13907 15310 15930 16600 17600 18920 20360 22050 22520 23042 24325 25235 26920 28657 29033 31582 31960 33880 35380 36220 37749 38653 39560 40830 43419 43785 45133 46637 47400 49812 50731 52361 55703 58140 59950 62160"
+  },
+  "FPKT0_SI1538.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR3/FPKT0/SI1538.WAV.wav",
+    "duration": 3.129625,
+    "spk_id": "FPKT0",
+    "phn": "sil ah sil k eh r ih sil jh sil k r ah n ch sil b ay ih sil s sil d ih m l ay sil t s f ih l sil t r ih ng th uw dh ih sil g l uw m sil",
+    "wrd": "a carriage crunched by its dim lights filtering through the gloom",
+    "ground_truth_phn_ends": "2231 3320 4250 5200 6349 7227 8360 8830 9984 10750 11770 12129 12848 13400 15670 16360 16600 20052 20971 21470 22460 23468 23720 24981 26109 27073 29000 29740 29849 30680 31863 32786 33320 34180 34790 35133 36040 36716 37840 39352 39979 40856 42090 42366 43160 45207 46925 50000"
+  },
+  "FPKT0_SI908.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR3/FPKT0/SI908.WAV",
+    "duration": 2.272,
+    "spk_id": "FPKT0",
+    "phn": "sil w iy ow w ih z th aa w ih w uh sil d ay w ih th aa r sil b uw sil t s aa n sil",
+    "wrd": "we always thought we would die with our boots on",
+    "ground_truth_phn_ends": "2240 2882 4469 5932 6725 7812 9065 9817 11864 12981 13880 14621 15582 16678 16820 19718 20469 21240 22240 23176 23644 24731 24981 26569 27070 27279 28790 30800 32191 36240"
+  },
+  "FPKT0_SX8.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR3/FPKT0/SX8.WAV.wav",
+    "duration": 2.816,
+    "spk_id": "FPKT0",
+    "phn": "sil w ay y eh l er w er iy ow v er s ih l iy ay dx ih m z sil",
+    "wrd": "why yell or worry over silly items",
+    "ground_truth_phn_ends": "2320 3482 5806 7227 9274 10109 11488 13075 15331 16292 17838 18760 19830 22690 24146 24898 26694 28908 29702 30248 31910 34660 44960"
+  },
+  "FPKT0_SI2168.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR3/FPKT0/SI2168.WAV",
+    "duration": 1.977625,
+    "spk_id": "FPKT0",
+    "phn": "sil dh ey m ey sil k ah s sil k n f aa r m ih s l uh sil g uh sil",
+    "wrd": "they make us conformists look good",
+    "ground_truth_phn_ends": "1960 2381 4200 5347 7240 7980 8240 9560 10736 11520 12026 13309 15080 16520 17120 18255 19210 21320 22391 23720 25460 25780 27560 31600"
+  },
+  "FPKT0_SX188.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR3/FPKT0/SX188.WAV",
+    "duration": 2.2208125,
+    "spk_id": "FPKT0",
+    "phn": "sil hh uw aa th er ay z dh iy ih n l ih m ih dx ih dx ih sil k s sil p eh n s ih sil k aw n sil",
+    "wrd": "who authorized the unlimited expense account",
+    "ground_truth_phn_ends": "2440 3010 4804 7268 8580 9900 12407 13359 13960 15026 15560 16920 17240 17880 18798 19320 19801 20840 21400 22440 23030 23227 24480 24990 25324 26668 26880 28340 28783 29510 30287 33077 33475 35440"
+  },
+  "FPKT0_SX368.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR3/FPKT0/SX368.WAV",
+    "duration": 3.09125,
+    "spk_id": "FPKT0",
+    "phn": "sil l aa r iy z sil k aa s sil t uw m n iy dx ih sil b l ae sil g l ah z ih sil b iy sil k ah m sil p l iy sil l iy eh l ih sil g eh n sil",
+    "wrd": "lori's costume needed black gloves to be completely elegant",
+    "ground_truth_phn_ends": "2141 2882 3926 4720 6000 7060 7938 8731 10990 11989 12700 13250 14200 14920 15640 16760 17253 18200 19630 19790 20762 23018 24300 24660 25483 27400 28950 29331 30200 30400 31640 32751 33492 34012 34659 35520 36637 37096 38520 39310 40081 42045 43298 44050 45080 45730 45972 47091 47418 49360"
+  },
+  "FPKT0_SX278.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR3/FPKT0/SX278.WAV.wav",
+    "duration": 3.2128125,
+    "spk_id": "FPKT0",
+    "phn": "sil t uw f er dh er hh ih z sil p r ih s sil t iy sil jh hh iy sil k ey sh n l ih r iy sil z dh ah w aa l s sil t r iy sil jh er n ah l sil",
+    "wrd": "to further his prestige he occasionally reads the wall street journal",
+    "ground_truth_phn_ends": "2240 2940 3480 5263 7143 7540 8981 10026 11490 12783 13730 14400 14759 15480 17000 17320 17963 20511 20887 22140 22680 24229 25000 25650 27488 28365 28741 29201 30370 31331 32960 33260 34172 35007 35885 36929 38306 39130 40396 40898 41420 41917 42912 43640 44360 46240 46672 47680 48160 51360"
+  },
+  "FPKT0_SX98.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR3/FPKT0/SX98.WAV",
+    "duration": 1.849625,
+    "spk_id": "FPKT0",
+    "phn": "sil g eh s dh ih sil k w eh sh ah n f r ah m dh iy ae n s er sil",
+    "wrd": "guess the question from the answer",
+    "ground_truth_phn_ends": "2260 2560 4050 5450 6390 6960 7810 9000 9663 10990 13060 13660 14621 16480 16920 17629 18506 18840 20887 22560 23326 24920 26680 29520"
+  },
+  "MJLN0_SX9.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR8/MJLN0/SX9.WAV",
+    "duration": 2.489625,
+    "spk_id": "MJLN0",
+    "phn": "sil w eh ah w er y uw w aa l w iy w er ah w ey sil",
+    "wrd": "where were you while we were away",
+    "ground_truth_phn_ends": "2160 2873 4300 4920 6015 8313 9691 10466 11400 12840 13560 14579 15958 17336 19592 20440 21800 24520 39760"
+  },
+  "MJLN0_SI2079.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR8/MJLN0/SI2079.WAV",
+    "duration": 2.1184375,
+    "spk_id": "MJLN0",
+    "phn": "sil dh ey hh eh sil s l ae sil dh eh r th ay z sil",
+    "wrd": "they had slapped their thighs",
+    "ground_truth_phn_ends": "2122 2490 3880 4760 5867 6470 9310 10273 12200 13866 14636 16000 16920 18680 24898 28073 28532"
+  },
+  "MJLN0_SX369.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR8/MJLN0/SX369.WAV",
+    "duration": 2.8864375,
+    "spk_id": "MJLN0",
+    "phn": "sil b aa sil p ey sil p er sil ow v ih dh ah l ih v ih ng r uw m ih r l z sil",
+    "wrd": "bob papered over the living room murals",
+    "ground_truth_phn_ends": "2186 2379 4854 6910 7530 9170 10370 10710 11989 12490 14692 16041 16626 17838 18555 19467 20428 21263 22182 23686 24229 25107 27780 29326 31624 33810 36280 46160"
+  },
+  "MJLN0_SX279.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR8/MJLN0/SX279.WAV.wav",
+    "duration": 3.5904375,
+    "spk_id": "MJLN0",
+    "phn": "sil ae l ah s ih z ih sil b ih l ah dx iy sil t uw w er sil k w ih dh aw sil s uw sil p er v ih sh ih n sil ih z n ow sil w er dh iy sil",
+    "wrd": "alice's ability to work without supervision is noteworthy",
+    "ground_truth_phn_ends": "2250 4219 4804 5750 7080 8020 9080 9960 11240 11440 12490 13326 14400 14830 16520 17530 18214 20469 21373 23080 24540 25150 25400 26200 26980 29960 30340 32450 33137 34099 34426 34924 36386 38460 39490 40680 41480 44013 44920 46030 46800 48960 50044 50920 52280 53820 54920 57440"
+  },
+  "MJLN0_SI1449.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR8/MJLN0/SI1449.WAV.wav",
+    "duration": 4.3328125,
+    "spk_id": "MJLN0",
+    "phn": "sil ch iy f ih n sil t er s sil t ih n r ey dx iy uh s sil t eh er l ah z ey sh ih n r ih z ay sil z ih n dh ih m ih l ih sil t eh r ih s er v er s ih z sil",
+    "wrd": "chief interest in radiosterilization resides in the military services",
+    "ground_truth_phn_ends": "3590 4770 6320 7810 9312 9665 10170 11080 12440 13040 13520 13960 15039 15749 16919 18440 19040 19843 21000 22391 23080 23390 24563 25733 26861 28350 29210 32090 33880 35760 36845 38596 39640 40310 43800 44280 45160 45698 46440 46660 47173 48565 49333 50043 51080 51980 52580 53259 53928 54730 56840 58760 59720 60480 62490 64480 66730 69280"
+  },
+  "MJLN0_SX99.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR8/MJLN0/SX99.WAV",
+    "duration": 3.15525,
+    "spk_id": "MJLN0",
+    "phn": "sil m ih sil d iy v l s ih s ay ih dx iy w ih z sil b ey s sil t aa n hh ay er aa r sil k iy s sil",
+    "wrd": "medieval society was based on hierarchies",
+    "ground_truth_phn_ends": "2400 2966 3866 4719 5000 6295 7320 8520 10490 10990 13010 16041 16760 17080 18573 19592 20600 21430 22500 22680 24840 25970 26540 26850 28560 29618 31110 33545 35216 36637 37480 39160 40085 41950 45300 50480"
+  },
+  "MJLN0_SX189.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR8/MJLN0/SX189.WAV",
+    "duration": 2.969625,
+    "spk_id": "MJLN0",
+    "phn": "sil d ih s sil t r oy eh v r iy f ay l r ah l ey dx ih sil t ih m ay aa dx ih sil s sil",
+    "wrd": "destroy every file related to my audits",
+    "ground_truth_phn_ends": "3000 3330 3800 5960 6350 6990 7644 10261 13409 14161 14997 16440 18430 22015 23018 24355 25023 26049 27880 28592 29393 30740 31760 32080 33280 35000 38720 39101 40560 42431 44770 47440"
+  },
+  "MJLN0_SI819.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR8/MJLN0/SI819.WAV",
+    "duration": 4.537625,
+    "spk_id": "MJLN0",
+    "phn": "sil dh eh er f aa r s ih z ah m aa r l ey sil n sil dh eh n ih n l eh sil t r ih s ih sil d iy sil ae n l eh s dh ih n ih n m ae sil n ih sil t ih z m sil",
+    "wrd": "there forces are more latent than in electricity and less than in magnetism",
+    "ground_truth_phn_ends": "1731 2552 5013 7080 9330 10493 11310 12530 13410 14090 14929 16212 17545 18381 19885 22057 23240 24941 26166 26590 27513 28263 29960 30440 31958 33240 34380 35885 36230 36850 38720 39596 40147 40506 42280 48494 49943 50520 52013 54100 55520 56810 57320 58029 59115 59993 60829 62910 63328 64562 64760 65840 66760 68132 69135 70424 72560"
+  },
+  "MPAM0_SI1189.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR8/MPAM0/SI1189.WAV.wav",
+    "duration": 2.553625,
+    "spk_id": "MPAM0",
+    "phn": "sil ey sil f iy l sil g ah n z w er sil k ae sil ch er dx ih n sil p ah z ih sh n sil",
+    "wrd": "eight field guns were captured in position",
+    "ground_truth_phn_ends": "4680 6040 7238 9497 10610 11856 13240 13640 15880 17080 18046 19060 19880 21180 22057 23770 25378 26203 27240 27932 28520 29679 31243 31800 32439 34009 35000 36762 38475 40800"
+  },
+  "MPAM0_SI1961.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR8/MPAM0/SI1961.WAV.wav",
+    "duration": 4.416,
+    "spk_id": "MPAM0",
+    "phn": "sil ah s eh sil k ih n sil t w ih sil ch sil t hh ih sh er sil s l iy v sil ih n iy f eh l sil t ah sil b r iy f sil b er n ah n ah z ah sil p er aa r m sil",
+    "wrd": "a second twitched his shirtsleeve and he felt a brief burn on his upper arm",
+    "ground_truth_phn_ends": "2297 3425 5409 6752 7853 8280 8920 9564 11571 13067 13326 14229 14913 16344 17000 17295 18214 18840 21907 23720 24313 26527 27237 29063 30663 35695 36370 37098 37720 39621 40647 41160 42213 42520 43098 44854 45160 45918 46892 47960 49655 49898 53560 54120 55080 55880 56840 58033 59320 60415 60712 62587 64801 65964 67404 70640"
+  },
+  "MPAM0_SX379.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR8/MPAM0/SX379.WAV",
+    "duration": 2.51525,
+    "spk_id": "MPAM0",
+    "phn": "sil p ae m sil g ih v z sil d r ay v ih ng l eh s n z aa n th er z sil d ey z sil",
+    "wrd": "pam gives driving lessons on thursdays",
+    "ground_truth_phn_ends": "2130 3086 5160 6440 6934 7294 8373 9120 9960 10569 11160 11986 13451 14287 15248 16167 16877 18440 20010 21679 22754 24072 25036 26778 29000 30480 31120 31320 35258 37723 40240"
+  },
+  "MPAM0_SX199.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR8/MPAM0/SX199.WAV.wav",
+    "duration": 3.52,
+    "spk_id": "MPAM0",
+    "phn": "sil y ah ng sil ch ih l sil er n sh uh dx ah v oy sil d ih sil k s sil p ow sh er sil t ah sil k ih n sil t ey sil jh ah s sil d ih z iy z ih z sil",
+    "wrd": "young children should avoid exposure to contagious diseases",
+    "ground_truth_phn_ends": "2280 3026 4219 5160 5933 7240 8187 9160 9483 11070 12031 13400 13920 14320 15080 16459 19843 21138 21514 22366 23160 23360 24709 26110 26400 28920 30040 31240 32306 32797 33160 34297 34724 35198 35707 36567 37480 39240 40062 40640 41040 42373 43000 43613 44680 45914 48040 49663 51340 53845 56240"
+  },
+  "MPAM0_SX109.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR8/MPAM0/SX109.WAV.wav",
+    "duration": 2.937625,
+    "spk_id": "MPAM0",
+    "phn": "sil sh iy s l ih sil t n s sil p r ey n d er ae ng sil k l aa n ah s sil t iy sil s l ow sil p sil",
+    "wrd": "she slipped and sprained her ankle on the steep slope",
+    "ground_truth_phn_ends": "2422 4284 4720 7153 7730 8939 10750 11279 12598 13920 15371 15727 16334 17983 18709 19063 20845 23101 23720 24440 25080 26276 27613 29266 29783 32167 32835 33560 34920 36177 38767 39519 41942 43697 44616 46960"
+  },
+  "MPAM0_SX289.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR8/MPAM0/SX289.WAV",
+    "duration": 2.70725,
+    "spk_id": "MPAM0",
+    "phn": "sil w eh dh er sil p r uw f sil g l aa sh ih z er v er iy y uw s f l n s iy ae dx l sil",
+    "wrd": "weatherproof galoshes are very useful in seattle",
+    "ground_truth_phn_ends": "2317 2966 3550 4360 5180 6642 7480 8280 9560 10520 11480 11800 13040 15720 17240 17800 19007 20260 21837 23268 24200 25613 26520 27840 29117 31220 33285 35133 37639 39160 39560 40840 43280"
+  },
+  "MPAM0_SX19.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR8/MPAM0/SX19.WAV.wav",
+    "duration": 2.3744375,
+    "spk_id": "MPAM0",
+    "phn": "sil ah l uw m ah n ih m s ih l v ah w er sil k ih n aa f n sil b iy f l ih m z iy sil",
+    "wrd": "aluminum silverware can often be flimsy",
+    "ground_truth_phn_ends": "2145 2840 3718 5096 5639 6392 6767 7519 8840 11080 12031 12866 13352 14049 15331 17160 17963 18760 19091 19560 21882 23561 25080 25960 26080 27122 29560 30203 31080 32662 34079 35535 37920"
+  },
+  "MPAM0_SI1819.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR8/MPAM0/SI1819.WAV.wav",
+    "duration": 2.8608125,
+    "spk_id": "MPAM0",
+    "phn": "sil hh iy r ah sil d ih z ay s l iy sil p l iy w ih th w ah n hh y uw sil jh sil p aa sil",
+    "wrd": "he rubbed his eyes sleepily with one huge paw",
+    "ground_truth_phn_ends": "2081 3216 3846 5054 5880 7080 7320 8360 9400 12785 15786 16173 17240 18486 18840 20595 22182 23624 24284 25480 27488 28600 30078 31331 32167 33800 34865 35743 37347 38164 41770 45760"
+  },
+  "FMLD0_SX25.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR8/FMLD0/SX25.WAV",
+    "duration": 1.90725,
+    "spk_id": "FMLD0",
+    "phn": "sil ow n l ih l oy er z l ah v m ih y ih n ih r s sil",
+    "wrd": "only lawyers love millionaires",
+    "ground_truth_phn_ends": "2200 4040 5320 5746 6600 7800 10819 12960 14604 15373 16508 17840 18880 19968 20971 21920 22800 24146 25910 28440 30400"
+  },
+  "FMLD0_SX385.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR8/FMLD0/SX385.WAV",
+    "duration": 1.90725,
+    "spk_id": "FMLD0",
+    "phn": "sil hh ih z sh ow l sil d er f eh l sil t ih z ih f ih sil w er sil b r ow sil k ih n sil",
+    "wrd": "his shoulder felt as if it were broken",
+    "ground_truth_phn_ends": "2520 3160 3920 4845 6220 7352 8280 8550 8750 9960 11655 12574 13440 14020 14550 15320 16680 17640 19000 20040 21040 21506 22440 23390 23740 24320 25480 27130 27379 27872 28866 30400"
+  },
+  "FMLD0_SX205.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR8/FMLD0/SX205.WAV",
+    "duration": 3.072,
+    "spk_id": "FMLD0",
+    "phn": "sil b ih l ih sil t eh er sil p er s n eh l aa r er sil k s sil p eh sil t ih sil t uw ow sil b ey sil g ah v er m eh n aa r dx er s sil",
+    "wrd": "military personnel are expected to obey government orders",
+    "ground_truth_phn_ends": "2230 2480 3258 3926 5160 5681 6520 7603 8600 9560 10370 11630 13190 14160 15498 16877 17852 18435 19480 20300 20637 21560 22310 22490 23754 24920 25370 26200 27110 27960 28741 30440 31230 31530 33800 34440 34910 36276 37199 37960 38840 39960 40440 41838 42631 43160 44820 47070 49040"
+  },
+  "FMLD0_SI822.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR8/FMLD0/SI822.WAV.wav",
+    "duration": 3.6544375,
+    "spk_id": "FMLD0",
+    "phn": "sil m ih l sil p er sil d ah sil k sh ih n m ey sil b iy ih ng sil k r iy s sil b ay dh iy ae n sil t ay ih n t f eh sil t ih v sil p r aa sil p r iy z ah v dh ih s sil d r ah sil g sil",
+    "wrd": "milk production may be increased by the anti infective properties of this drug",
+    "ground_truth_phn_ends": "2080 2320 3007 3546 4920 5410 6015 6584 6776 8200 8630 8981 10070 10610 11279 11864 13800 14390 14650 15749 16480 17200 17900 19270 19793 20840 22400 23240 23510 25080 25630 27112 28880 29080 30000 30470 32000 32800 33480 33734 34640 35824 37120 37390 37906 38188 39510 40110 40753 42040 42760 43266 44120 45340 46580 47140 48200 49040 49730 51310 52010 52870 53526 54840 55770 56217 58400"
+  },
+  "FMLD0_SI2185.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR8/FMLD0/SI2185.WAV.wav",
+    "duration": 3.584,
+    "spk_id": "FMLD0",
+    "phn": "sil sh iy s eh sil sh aa r sil k s eh v n ow sil b ow n d z ih n sil t sh r ih m sil p s sil w ae m sil b ae sil k w er sil",
+    "wrd": "she said sharks have no bones and shrimp swam backward",
+    "ground_truth_phn_ends": "2130 4420 5620 7290 8680 9290 10860 12440 13160 13690 14139 15206 16600 17679 18720 20840 22570 22893 26318 27540 27578 28370 29120 29920 30320 30681 32984 33629 34800 35258 36100 36570 38450 39280 40200 42040 42760 44200 44412 46600 47850 48359 48900 49760 57280"
+  },
+  "FMLD0_SX295.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR8/FMLD0/SX295.WAV.wav",
+    "duration": 3.097625,
+    "spk_id": "FMLD0",
+    "phn": "sil ih f sil k eh r l sil k ah m z sil t ah m aa r ah hh ae v er r ey n jh f er m iy dx iy ng ih sil t uw sil",
+    "wrd": "if carol comes tomorrow have her arrange for a meeting at two",
+    "ground_truth_phn_ends": "2840 3800 5000 5510 6560 7394 8355 9400 10520 11240 12156 13000 14704 15540 15960 16360 17320 19049 19968 21013 22266 23812 24772 27560 28699 30640 31470 32710 33990 36000 37160 38767 39394 40146 40688 41772 43750 44760 46955 49520"
+  },
+  "FMLD0_SX115.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR8/FMLD0/SX115.WAV.wav",
+    "duration": 2.38725,
+    "spk_id": "FMLD0",
+    "phn": "sil dh iy eh m l ah m sil d ah sil p ih sil k s sil dh iy ih sil k r aa sil p l ah s aa l ah sil g l ow sil",
+    "wrd": "the emblem depicts the acropolis all aglow",
+    "ground_truth_phn_ends": "2350 2750 3718 4600 5556 6015 6892 7800 8280 8567 9080 9990 10930 12200 12840 13242 14412 14846 15390 16083 16920 17920 18880 19560 20920 22050 22400 23053 24710 26318 28992 29953 30760 31470 31850 32960 35560 38080"
+  },
+  "FMLD0_SI925.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR8/FMLD0/SI925.WAV",
+    "duration": 2.1184375,
+    "spk_id": "FMLD0",
+    "phn": "sil w ah hh iy w ih z ih n sil k ah s sil t ih sil d iy ih z sil w ay f sil d ih v aa r s sil t ih m sil",
+    "wrd": "while he was in custody his wife divorced him",
+    "ground_truth_phn_ends": "2160 2545 3320 4177 5305 6171 6760 7940 8480 9120 9720 10620 11720 13326 13702 14161 14830 15415 15791 17211 18570 19610 20240 20946 22360 23320 24100 24360 24739 25640 27186 28080 29960 30590 30970 31605 32265 33840"
+  },
+  "FJLM0_SX143.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR4/FJLM0/SX143.WAV",
+    "duration": 3.4048125,
+    "spk_id": "FJLM0",
+    "phn": "sil dh ah s aw n sil d ih v sil jh ih n ih f er z sil b y uw sil g l s sil k eh r sil dh eh ae n ah l ow sil p sil",
+    "wrd": "the sound of jennifer's bugle scared the antelope",
+    "ground_truth_phn_ends": "2500 2872 3650 6060 9682 10432 10605 10727 11567 12323 12890 13590 14760 15160 16280 18030 19940 21160 22160 22641 23560 25240 25730 26020 28825 31675 32930 33240 35342 36650 38100 38394 39390 42494 43174 44100 45311 48280 51142 51777 54400"
+  },
+  "FJLM0_SX413.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR4/FJLM0/SX413.WAV",
+    "duration": 3.4048125,
+    "spk_id": "FJLM0",
+    "phn": "sil d ae f sil n iy s w ih dx ih sh sil n iy sil d l sil p oy n sil t s sil k aa r f sil m ae sil ch sil t hh er s sil k er sil",
+    "wrd": "daphne's swedish needlepoint scarf matched her skirt",
+    "ground_truth_phn_ends": "2199 2379 4739 6103 6802 7123 9066 12422 13448 14760 15128 16350 18250 18680 19270 20738 21080 21283 22349 23800 24770 27016 27404 27990 28199 29569 30310 30890 33086 34756 36177 37157 38235 40522 40960 42651 43040 43613 44155 45533 47622 48540 48980 52683 54400"
+  },
+  "FJLM0_SI1043.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR4/FJLM0/SI1043.WAV",
+    "duration": 3.417625,
+    "spk_id": "FJLM0",
+    "phn": "sil n aa sil s ih sil p r aa z ih ng l iy sil dh ih s ah sil p r ow sil ch sil d ih sil d n aa w er sil k sil",
+    "wrd": "not surprisingly this approach did not work",
+    "ground_truth_phn_ends": "1859 2975 4892 5200 6858 7352 8147 9540 10526 12449 13680 14481 15903 17211 20678 23130 23430 24470 26100 26652 27840 29090 30073 31958 32750 35430 37810 38190 39455 40045 40250 41244 43879 46760 49616 51240 52151 54640"
+  },
+  "FJLM0_SI2303.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR4/FJLM0/SI2303.WAV",
+    "duration": 4.057625,
+    "spk_id": "FJLM0",
+    "phn": "sil ih n sh aa r sil eh n sil t ih sil b aa r ah n aa r sil b er l f r ey z sil s l ae sh sil t ih m sil b er sil",
+    "wrd": "in short and to borrow an arboreal phrase slash timber",
+    "ground_truth_phn_ends": "2000 3600 4450 7150 9986 11237 12440 14000 14656 15030 15530 15964 17200 17370 19718 21180 22261 23095 26066 26736 27438 27670 29911 31640 34030 35216 39101 41314 47170 49850 51033 53404 55143 56040 56830 58520 59753 60016 60240 63040 64879"
+  },
+  "FJLM0_SX53.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR4/FJLM0/SX53.WAV.wav",
+    "duration": 3.097625,
+    "spk_id": "FJLM0",
+    "phn": "sil iy v ih n ah s ih m sil p l v ah sil k ae sil b y ih l eh r iy sil k ah n sil t ey n sil t s ih m sil b l z sil",
+    "wrd": "even a simple vocabulary contains symbols",
+    "ground_truth_phn_ends": "1880 3880 4680 5245 6200 7470 9740 11120 11760 12260 12780 14120 15151 16880 17800 18670 20386 21142 21340 22099 22684 24062 25190 26443 27536 28832 29672 30240 31414 32023 32902 35673 37006 37190 37347 39557 40930 42300 42665 42781 45370 47510 49520"
+  },
+  "FJLM0_SI1673.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR4/FJLM0/SI1673.WAV.wav",
+    "duration": 3.161625,
+    "spk_id": "FJLM0",
+    "phn": "sil w ah n th ih ng sil k hh ih th aa sil n ow sil b ah dx iy n ow z ah sil b aw dx ih y eh sil",
+    "wrd": "one thing he thought nobody knows about it yet",
+    "ground_truth_phn_ends": "2032 3216 4400 5720 7185 10953 12069 12670 12871 14080 15023 17040 21347 24047 25200 26488 27160 27381 28760 29033 30280 31451 34720 35840 37040 37960 38170 40880 41240 42196 45238 48329 50480"
+  },
+  "FJLM0_SX323.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR4/FJLM0/SX323.WAV.wav",
+    "duration": 2.841625,
+    "spk_id": "FJLM0",
+    "phn": "sil dh ah f aa sil p r ih v ih n ih sil dh ih m f r ah m er r aa v ih ng aa n sil t aa m sil",
+    "wrd": "the fog prevented them from arriving on time",
+    "ground_truth_phn_ends": "2200 2680 3400 5470 8724 9700 11033 11446 12040 13240 14830 15522 16805 18280 18640 21240 22420 24230 24689 25232 25846 27446 28783 31320 32102 33153 34019 36440 37263 37924 39280 43382 44351 45360"
+  },
+  "FJLM0_SX233.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR4/FJLM0/SX233.WAV.wav",
+    "duration": 2.51525,
+    "spk_id": "FJLM0",
+    "phn": "sil hh aa w ey ih n sil f r iy w ey m iy n ih s ey m sil th ae ng sil",
+    "wrd": "highway and freeway mean the same thing",
+    "ground_truth_phn_ends": "2257 3380 5514 7612 10318 11611 12278 12825 14540 15253 16680 18172 20686 22256 24400 26120 27054 29149 31600 32918 33931 34534 38223 39217 40160"
+  },
+  "MTLS0_SX290.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR4/MTLS0/SX290.WAV",
+    "duration": 3.18725,
+    "spk_id": "MTLS0",
+    "phn": "sil dh ih s sil b r ow sh er ih s sil p ah sil t ih sil k l ih n f ow m sil t ih f er sil p er s sil p ah sil t ih v sil b ay er sil",
+    "wrd": "this brochure is particularly informative for prospective buyer",
+    "ground_truth_phn_ends": "2370 2780 3880 4950 6025 6210 6702 7686 9890 13083 14680 16840 17712 18214 18548 18882 19342 20595 21747 22433 22767 23686 24522 26109 27488 28714 29242 30036 30997 33420 34600 35625 36170 36760 38440 39140 39510 40920 42485 42880 43631 44341 45135 45344 47711 50501 50990"
+  },
+  "MTLS0_SX20.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR4/MTLS0/SX20.WAV",
+    "duration": 3.008,
+    "spk_id": "MTLS0",
+    "phn": "sil sh iy w aa r w aa r m f l iy s iy w uh l ah n ow f er aa l z sil",
+    "wrd": "she wore warm fleecy woolen overalls",
+    "ground_truth_phn_ends": "2230 4500 5890 6840 9293 10520 11822 14234 15440 16626 19260 19916 21230 23480 25357 26861 27960 28440 29994 30830 33320 34850 36511 39690 41280 43250 48080"
+  },
+  "MTLS0_SX200.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR4/MTLS0/SX200.WAV",
+    "duration": 2.5408125,
+    "spk_id": "MTLS0",
+    "phn": "sil r aw f sil k ah n sil t r ow sil dh ih s sil t aa sil p w aa sil ch f er m dh ah sil b l iy sil ch er s sil",
+    "wrd": "ralph controlled the stopwatch from the bleachers",
+    "ground_truth_phn_ends": "2240 3400 5720 6760 7840 8410 8913 9315 10330 11390 12060 13400 14814 15260 15659 17480 18000 18260 20240 21800 22100 22746 24040 24770 25817 26778 27640 28657 28908 29480 30700 31360 31880 32920 34050 34940 36610 38360 40640"
+  },
+  "MTLS0_SI740.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR4/MTLS0/SI740.WAV",
+    "duration": 2.1824375,
+    "spk_id": "MTLS0",
+    "phn": "sil d uw w ih th aw sil f ae n sil s iy sil t ey sil b l sil k l aa dh s sil",
+    "wrd": "do without fancy tablecloths",
+    "ground_truth_phn_ends": "2172 2510 4200 5160 6280 7880 10440 11922 13010 14663 15206 15650 17295 18440 19550 20370 22200 22982 23280 24280 24840 26318 27639 30280 31122 32710 34880"
+  },
+  "MTLS0_SX380.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR4/MTLS0/SX380.WAV",
+    "duration": 2.2144375,
+    "spk_id": "MTLS0",
+    "phn": "sil w ay sil ch aa r sil jh m ah n iy f er s ah sil ch sil g aa r sil b ih sil jh sil",
+    "wrd": "why charge money for such garbage",
+    "ground_truth_phn_ends": "2160 2973 4600 5450 6100 7853 8680 9580 11025 12080 13760 14440 15960 17800 18550 20130 21880 22670 24120 25008 25420 27426 28400 29280 29800 30280 31600 33290 35360"
+  },
+  "MTLS0_SI2000.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR4/MTLS0/SI2000.WAV.wav",
+    "duration": 2.86725,
+    "spk_id": "MTLS0",
+    "phn": "sil w iy sil k ih ng sil g eh dx ih sil ih f w ih sil d ih ih sil g sil hh iy s eh sil p ey sh n sil t l iy sil",
+    "wrd": "we can get it if we dig he said patiently",
+    "ground_truth_phn_ends": "2560 3026 3960 4261 5180 5723 6469 7730 8400 9900 10360 12031 13535 15400 17127 17458 18120 19342 19592 22824 24440 25240 26120 28616 29920 30790 32417 33400 34966 35780 37890 39480 40360 40720 41232 41956 43404 45840"
+  },
+  "MTLS0_SI1370.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR4/MTLS0/SI1370.WAV",
+    "duration": 4.096,
+    "spk_id": "MTLS0",
+    "phn": "sil w ih m ey s ey dh eh sil hh ih z sil p r aa sil l ah m w ah z sil d ay sil n ow s sil t sil b ah sil dh ae sil t hh iy r uw f uw z sil t r iy sil m ih n sil",
+    "wrd": "we may say that his problem was diagnosed but that he refused treatment",
+    "ground_truth_phn_ends": "2160 2546 3320 4469 6220 8000 10840 11480 12741 13160 14320 15498 17000 17900 18610 19273 20600 21120 21446 22099 23185 23686 24550 25700 26686 26945 30036 30768 31680 35467 37221 37932 39160 41910 42090 42960 43984 44520 45947 46420 46720 47650 49080 49790 51160 53500 56057 57320 58100 59000 59586 60681 61538 62532 63409 63869 65536"
+  },
+  "MTLS0_SX110.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR4/MTLS0/SX110.WAV.wav",
+    "duration": 3.4048125,
+    "spk_id": "MTLS0",
+    "phn": "sil dh ah sil b eh s sil t w ey sil t ah l er n sil ih z sil t ih s aa l v eh sil k s sil t er sil p r aa sil b l ah m s sil",
+    "wrd": "the best way to learn is to solve extra problems",
+    "ground_truth_phn_ends": "2381 2803 3320 4142 4353 6680 7603 8229 8776 9544 11080 11980 12750 13334 14245 18960 20807 22349 24187 25560 26250 26940 27470 29618 31960 33160 34120 35800 36312 36637 37640 38250 38730 39480 40740 41640 42706 44840 45565 46250 46678 47535 48657 51290 54400"
+  },
+  "MLLL0_SX103.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR4/MLLL0/SX103.WAV.wav",
+    "duration": 2.3424375,
+    "spk_id": "MLLL0",
+    "phn": "sil k aa l ah n ae m b uw l ih n sil s f er m eh dx ih sil k l ah s ih s sil t n sil t s sil",
+    "wrd": "call an ambulance for medical assistance",
+    "ground_truth_phn_ends": "3200 4310 5556 6391 6920 7394 9942 10535 10731 11237 12323 12960 13409 13869 14880 16125 16760 17800 19000 19480 20520 21290 21910 23477 24370 26380 27010 27880 28450 29180 29618 31070 31540 34660 37440"
+  },
+  "MLLL0_SI1993.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR4/MLLL0/SI1993.WAV",
+    "duration": 2.48325,
+    "spk_id": "MLLL0",
+    "phn": "sil sh uh sil sh iy w ey sil k ih m sil",
+    "wrd": "should she wake him",
+    "ground_truth_phn_ends": "12156 14640 15400 15830 17610 18464 19801 21389 22000 22630 23728 24982 39680"
+  },
+  "MLLL0_SX13.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR4/MLLL0/SX13.WAV",
+    "duration": 2.7328125,
+    "spk_id": "MLLL0",
+    "phn": "sil s sil w iy ng y er aa r m ih z hh ay ih z ih sil k ae ih n sil",
+    "wrd": "swing your arm as high as you can",
+    "ground_truth_phn_ends": "2280 5514 6080 6600 7640 8600 9650 10863 13853 15080 15720 16880 18400 19380 22224 23130 24530 25000 25640 27000 29493 30663 31257 43680"
+  },
+  "MLLL0_SX373.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR4/MLLL0/SX373.WAV",
+    "duration": 2.80325,
+    "spk_id": "MLLL0",
+    "phn": "sil ah sil b aa r iy n aa v l ih z ih s ah sil p er sil s l iy sil p iy n sil p ih l sil",
+    "wrd": "a boring novel is a superb sleeping pill",
+    "ground_truth_phn_ends": "3560 4760 6567 6749 8731 10026 11400 12520 15960 16680 18840 20160 21300 21950 24250 25000 26720 28080 30600 31140 33530 33913 34680 35160 36010 36454 37358 38510 39290 40981 42520 44800"
+  },
+  "MLLL0_SI1363.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR4/MLLL0/SI1363.WAV",
+    "duration": 4.985625,
+    "spk_id": "MLLL0",
+    "phn": "sil s ah m ih dh iy s sil p eh sil k ih l ey sh n z sil m ey eh v s ah m eh r ih sil ah dh er z er s ah m w ah dx ah m sil b ih sil g y uw ah s sil",
+    "wrd": "some of these speculations may have some merit others are somewhat ambiguous",
+    "ground_truth_phn_ends": "2700 5124 5806 6642 7018 7310 9270 10600 11400 11640 12520 13329 13950 14454 15206 18050 19926 21620 23990 24917 25650 27446 28073 28440 30621 31916 33671 34757 36678 37556 47785 49080 49550 51460 52600 53200 55330 56600 57349 57975 58767 59103 60120 61046 61943 62108 63080 63640 64199 64742 65829 66870 70890 79760"
+  },
+  "MLLL0_SI733.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR4/MLLL0/SI733.WAV.wav",
+    "duration": 4.345625,
+    "spk_id": "MLLL0",
+    "phn": "sil d uw ah v oy sil p ah ng sil sh er iy n er sil k ah dx iy n ih n sil t ih m iy sil s sil t eh s dh ah m sil",
+    "wrd": "do avoid puncturing or cutting into meats test them",
+    "ground_truth_phn_ends": "16810 17180 19383 19960 21160 24280 25800 27190 28440 29036 29483 31430 32250 33400 33880 35240 36300 37320 37998 38391 39240 39720 40800 41672 42330 43260 43722 45160 46600 47270 49529 50300 51200 52520 54160 55440 56004 56907 69520"
+  },
+  "MLLL0_SX193.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR4/MLLL0/SX193.WAV.wav",
+    "duration": 3.488,
+    "spk_id": "MLLL0",
+    "phn": "sil w ay sil b ay oy l sil w ah n y ih aa w ih sh uw z sil m ay n sil",
+    "wrd": "why buy oil when you always use mine",
+    "ground_truth_phn_ends": "12240 13506 16040 16920 17169 19759 25106 27480 30240 30813 31400 32439 33086 33671 35091 35968 36860 38340 40120 40740 41135 42000 45811 46604 55760"
+  },
+  "MLLL0_SX283.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR4/MLLL0/SX283.WAV",
+    "duration": 3.8208125,
+    "spk_id": "MLLL0",
+    "phn": "sil p l ae n sil d sil p eh er n sil t hh uh sil ah aa r sil g ih n ih z ey sh ih n s sil p m ow sil b er th sil k n sil t r ow l sil",
+    "wrd": "planned parenthood organizations promote birth control",
+    "ground_truth_phn_ends": "12890 13940 14946 16960 17520 17800 18520 19320 19970 21138 22812 23040 23227 23561 24160 25650 26109 26527 28281 29080 29630 29930 30328 30621 31670 32940 35480 37212 38057 39519 42840 44540 45422 46307 48280 50159 50439 52120 53160 53717 54344 55044 55430 56361 57040 58260 58920 61120"
+  },
+  "FDHC0_SI929.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR7/FDHC0/SI929.WAV.wav",
+    "duration": 2.8608125,
+    "spk_id": "FDHC0",
+    "phn": "sil b ah sil t s ah sil ch sil k ey s ih z sil w er ih n dh ah sil p ae s sil t ah n y uw sh uw l sil",
+    "wrd": "but such cases were in the past unusual",
+    "ground_truth_phn_ends": "2150 2370 3541 4250 4489 6280 7960 8790 9960 10480 11240 13590 15030 16350 17462 18400 19634 22433 23600 24396 24760 25560 26620 27240 30760 32751 33169 33527 35640 36600 37765 39270 40271 42072 43576 45680"
+  },
+  "FDHC0_SI2189.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR7/FDHC0/SI2189.WAV",
+    "duration": 2.2528125,
+    "spk_id": "FDHC0",
+    "phn": "sil y uw s aa dh ah m aa w iy z sil t ih sil g eh dh er sil dh ow z y ih er z sil",
+    "wrd": "you saw them always together those years",
+    "ground_truth_phn_ends": "2160 2623 3550 5190 7800 8390 9455 10109 12240 13535 14790 16120 16440 16930 17440 18200 18370 20120 20740 22230 22990 23180 25890 27530 28866 29911 31840 33880 36000"
+  },
+  "FDHC0_SI1559.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR7/FDHC0/SI1559.WAV",
+    "duration": 3.3984375,
+    "spk_id": "FDHC0",
+    "phn": "sil v ih sh uw ah l iy dh iy z ih sil p r aa sil k s ih m ey dx ih sil w ah dx iy w ih s f iy l iy n w ih sil th ih n ih m s eh l f sil",
+    "wrd": "visually these approximated what he was feeling within himself",
+    "ground_truth_phn_ends": "2120 2600 4430 5310 6475 7436 8438 10109 10950 12830 13400 14440 15220 15910 16860 18297 19120 19360 20510 20920 21560 23320 23800 25276 25891 26834 27880 28280 29535 30328 31180 32800 33720 35106 36177 37440 38182 38866 39640 40389 40844 42127 42720 43600 44742 46670 48460 49797 52200 54320"
+  },
+  "FDHC0_SX119.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR7/FDHC0/SX119.WAV.wav",
+    "duration": 3.02725,
+    "spk_id": "FDHC0",
+    "phn": "sil dh ih m ih s sil k w ow w ih z r iy sil t r ae sil t ih sil d w ih sil th ih n ah sil p aa l ih sil jh iy sil",
+    "wrd": "the misquote was retracted with an apology",
+    "ground_truth_phn_ends": "2200 2440 3348 4714 5870 7204 7970 8630 9274 10840 12466 13597 15070 15580 16600 17330 18420 19253 20920 22050 22350 23400 23886 24136 24966 25800 26553 26950 27480 27960 29000 29810 30660 32375 33378 34680 35184 36050 38114 48320"
+  },
+  "FDHC0_SX299.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR7/FDHC0/SX299.WAV",
+    "duration": 3.2064375,
+    "spk_id": "FDHC0",
+    "phn": "sil sh ey v iy n sil k r iy m ih z ih sil p aa sil p y uw l er ay dx eh m aa n hh aa l ah w iy n sil",
+    "wrd": "shaving cream is a popular item on halloween",
+    "ground_truth_phn_ends": "2230 4070 6360 6880 8000 8880 9540 10550 11393 13080 13880 15060 15910 16567 17430 18030 20040 20700 21000 21299 22236 23101 24163 27195 27571 28741 29535 31039 31665 32924 34381 35091 36219 37681 40080 41274 51200"
+  },
+  "FDHC0_SX29.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR7/FDHC0/SX29.WAV",
+    "duration": 2.5408125,
+    "spk_id": "FDHC0",
+    "phn": "sil hh eh l sil p sil g r ey sil t ih sil p ih sil k ih sil p eh sil k ih v sil p ih sil t ey dx ow z sil",
+    "wrd": "help greg to pick a peck of potatoes",
+    "ground_truth_phn_ends": "2520 3310 4493 5053 6310 6480 7520 8050 9140 11320 12870 13230 13720 15140 15620 17080 17900 18140 19000 20320 20690 22440 23290 23630 24320 25400 26300 26690 27160 28140 28757 30880 31360 34270 36180 40560"
+  },
+  "FDHC0_SX389.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR7/FDHC0/SX389.WAV.wav",
+    "duration": 2.457625,
+    "spk_id": "FDHC0",
+    "phn": "sil dh ey ow n ah sil b ih sil hh aw s ih n dh ah r er m ow sil k ah n sil t r iy s ay sil d sil",
+    "wrd": "they own a big house in the remote countryside",
+    "ground_truth_phn_ends": "1757 2449 4219 5800 6200 7073 8220 8420 10275 10760 12240 15090 16610 17200 17838 18300 18882 19759 20840 21597 24120 25260 26110 27221 27864 28250 29200 29576 30330 32169 35880 36366 36949 39280"
+  },
+  "FDHC0_SX209.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR7/FDHC0/SX209.WAV.wav",
+    "duration": 2.5664375,
+    "spk_id": "FDHC0",
+    "phn": "sil m ay sil k l sil k ah l er sil dh ih sil b eh sil d r uw m w aa l w ih th sil k r ey aa n s sil",
+    "wrd": "michael colored the bedroom wall with crayons",
+    "ground_truth_phn_ends": "2254 3200 5120 5850 6270 7640 8490 9450 10685 11488 13080 14340 14470 15110 16040 16240 18040 18670 19080 19493 20574 21920 22813 24599 25399 25986 26840 27640 28480 29750 30663 32417 35431 36770 38840 40960"
+  },
+  "MNJM0_SX140.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR7/MNJM0/SX140.WAV.wav",
+    "duration": 2.89925,
+    "spk_id": "MNJM0",
+    "phn": "sil ae sil r ih sil k ah l sil ch er l sil p r aa dx ah sil s aa r ah n iy v l iy sil d ih sh r ih v ih dx ih sil",
+    "wrd": "agricultural products are unevenly distributed",
+    "ground_truth_phn_ends": "2199 3880 4480 4973 5854 6670 7400 8813 9449 9866 11086 11780 12760 13870 14601 15540 17480 17960 19715 20337 22100 23224 23865 27115 27878 29994 31005 32543 34877 35628 35900 36634 39018 39319 40121 40920 42154 42600 44476 46320"
+  },
+  "MNJM0_SX230.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR7/MNJM0/SX230.WAV",
+    "duration": 3.552,
+    "spk_id": "MNJM0",
+    "phn": "sil eh l aw l iy w ey hh ih er sil b ah r ae sh n ah l ay z aa l er er z sil",
+    "wrd": "allow leeway here but rationalize all errors",
+    "ground_truth_phn_ends": "3148 4623 5611 10402 11446 13284 14647 17430 19040 20762 22584 23560 23886 24533 27183 29124 31324 32303 33002 33796 38064 39885 44971 45994 49378 52678 54763 56720"
+  },
+  "MNJM0_SX320.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR7/MNJM0/SX320.WAV",
+    "duration": 3.808,
+    "spk_id": "MNJM0",
+    "phn": "sil dh eh n eh r ih s ah n ah sil g aa sil g sil m ey n aa sil b ih w uh th ih m w aa sil k ih ng sil d ih s sil t ih n sil s sil",
+    "wrd": "the nearest synagogue may not be within walking distance",
+    "ground_truth_phn_ends": "2270 2962 4296 5053 7644 8772 9703 12362 13400 14040 15554 16028 16471 21160 22400 23213 25284 26227 27851 28717 30801 31840 32206 33587 34297 35349 37150 38936 40052 41015 42520 43520 44270 44944 46130 46752 47450 48896 50200 50730 51280 52247 53215 53910 57126 60880"
+  },
+  "MNJM0_SX410.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR7/MNJM0/SX410.WAV",
+    "duration": 2.752,
+    "spk_id": "MNJM0",
+    "phn": "sil g r eh sil b ay z f r eh sh sil m ih l sil k iy sil ch sil w iy sil d ey m aa r n ih ng sil",
+    "wrd": "greg buys fresh milk each weekday morning",
+    "ground_truth_phn_ends": "2210 2949 3843 5822 8320 8560 12285 13817 15140 15800 16950 18816 19458 20035 21600 22562 23759 24458 26160 26747 28101 28563 29618 31205 32710 33295 36172 37403 39187 39943 40313 41123 42489 43920"
+  },
+  "MNJM0_SX50.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR7/MNJM0/SX50.WAV",
+    "duration": 3.3984375,
+    "spk_id": "MNJM0",
+    "phn": "sil k ae dx ah s sil t r aa f ih sil k eh sil k ah n aa m ih sil k ah sil b ae sil s sil n ih sil g l eh sil dh ah sil p aa r sil",
+    "wrd": "catastrophic economic cutbacks neglect the poor",
+    "ground_truth_phn_ends": "2230 3090 4251 4726 5579 6920 7390 8029 8753 10158 11738 12760 13457 14310 15691 16540 17110 17820 18819 20711 21429 22353 23890 24940 26111 28127 28520 31347 32277 33580 34540 35007 35932 36765 37440 38330 40480 42810 44040 44360 45790 46810 50013 51720 54320"
+  },
+  "MNJM0_SI950.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR7/MNJM0/SI950.WAV.wav",
+    "duration": 5.472,
+    "spk_id": "MNJM0",
+    "phn": "sil ae s ah sil ch sil ih w ah z sil b iy aa m sil p aa l ah sil t ih sil s ah n hh ae sil n ow n iy dx ah sil jh ah s ih v ah sil k ey sh n sil b ay ey m eh s ih sil jh sil",
+    "wrd": "as such it was beyond politics and had no need of justification by a message",
+    "ground_truth_phn_ends": "2308 4848 7336 9920 10261 13570 14551 16375 17240 18097 19123 19798 20138 21806 24400 24804 25977 26805 28365 29284 29930 31039 32189 33760 34638 36302 36975 37911 39175 41439 41935 42715 45107 46100 48062 48472 49560 50692 51449 52507 54101 54723 55615 56397 57829 58912 61026 62899 65128 71020 71251 73513 75236 76544 78109 80059 81380 82399 86095 87440"
+  },
+  "MNJM0_SI1580.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR7/MNJM0/SI1580.WAV.wav",
+    "duration": 2.99525,
+    "spk_id": "MNJM0",
+    "phn": "sil hh ih aa w iy s iy m sil t eh hh ae v m ah n iy ih hh sil hh ih n hh ih z sil p aa sil k ah sil",
+    "wrd": "he always seemed to have money in his pocket",
+    "ground_truth_phn_ends": "1641 2372 3425 5472 6391 8207 10806 13193 13783 14530 15200 15899 17079 19855 20593 21311 22680 23160 25107 26067 27084 28264 29200 30233 31156 31850 33073 34618 35880 36747 38857 40095 40268 41332 47840"
+  },
+  "MNJM0_SI2210.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR7/MNJM0/SI2210.WAV.wav",
+    "duration": 2.03525,
+    "spk_id": "MNJM0",
+    "phn": "sil n ow r iy sil t er n ae sil d r eh s sil w ah sil s ow w eh v er sil",
+    "wrd": "no return address whatsoever",
+    "ground_truth_phn_ends": "2032 2391 4929 5765 6925 7980 8870 11320 11941 14743 15490 16121 16963 18398 20637 21022 21386 22285 22522 24802 26276 27112 29169 29800 31742 32564"
+  },
+  "MGRT0_SI820.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR7/MGRT0/SI820.WAV",
+    "duration": 6.1248125,
+    "spk_id": "MGRT0",
+    "phn": "sil b ay dh ae sil t sil w ah n f iy l z ae sil m ae sil n eh dx ih sil f aa r s ah z sil aa er z sil jh eh n r l ae z ih l eh sil t er sil k l f aa r s ih s sil",
+    "wrd": "by that one feels that magnetic forces are as general as electrical forces",
+    "ground_truth_phn_ends": "2186 2622 5078 6265 10280 11290 12319 14320 14946 16200 17240 19570 21389 23050 23960 25265 28360 28880 30840 32382 32721 34120 34440 35800 37000 39610 41320 42490 44270 46610 48280 55160 58346 59970 60720 61740 62440 64280 64920 65820 67268 72370 73120 74829 76200 77800 79100 79830 80343 81310 82700 84200 86380 87853 88552 90870 92690 95480 97920"
+  },
+  "MGRT0_SX100.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR7/MGRT0/SX100.WAV.wav",
+    "duration": 4.9344375,
+    "spk_id": "MGRT0",
+    "phn": "sil p r aa sil jh eh sil d ih v eh l m ah n sil w ah z sil p er s iy dx ih ng sil t uw s l ow l iy sil",
+    "wrd": "project development was proceeding too slowly",
+    "ground_truth_phn_ends": "2220 3580 4320 5800 6590 7100 8920 10710 11120 11738 12825 14203 15206 18520 20010 20491 23624 24563 25560 26527 27320 28040 29510 31780 33320 34160 35680 36400 37480 38870 40770 43023 44113 46624 48588 50389 52840"
+  },
+  "MGRT0_SI2080.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR7/MGRT0/SI2080.WAV",
+    "duration": 2.3104375,
+    "spk_id": "MGRT0",
+    "phn": "sil hh iy w uh sil n aa sil k eh r iy ih sil b r iy f sil k ey s sil",
+    "wrd": "he would not carry a brief case",
+    "ground_truth_phn_ends": "2040 4400 6224 7185 8320 9194 9680 12080 13270 14870 16083 17671 19258 20680 21810 22030 22892 24360 25560 26026 27510 30420 34040 36960"
+  },
+  "MGRT0_SX190.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR7/MGRT0/SX190.WAV.wav",
+    "duration": 2.8928125,
+    "spk_id": "MGRT0",
+    "phn": "sil s er v z ih sil k ow l s l aa ae f sh er ay ae sil dh iy oy l sil",
+    "wrd": "serve the coleslaw after i add the oil",
+    "ground_truth_phn_ends": "2230 5930 8400 9232 10360 10840 12050 13120 15026 16020 18380 19359 21094 25320 26276 27450 28616 30370 34680 35820 36110 36944 41629 43160 46240"
+  },
+  "MGRT0_SX10.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR7/MGRT0/SX10.WAV",
+    "duration": 3.0144375,
+    "spk_id": "MGRT0",
+    "phn": "sil aa r y er sil g r ey sil z hh ay er er l ow er dh eh n ae n s iy s sil",
+    "wrd": "are your grades higher or lower than nancy's",
+    "ground_truth_phn_ends": "2200 4553 5263 7080 9524 10670 11590 12620 14680 15130 16292 18620 20052 22520 25444 27279 29953 31582 33127 33960 35788 38433 39140 40960 43440 45870 48160"
+  },
+  "MGRT0_SX280.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR7/MGRT0/SX280.WAV.wav",
+    "duration": 1.984,
+    "spk_id": "MGRT0",
+    "phn": "sil dh iy ow ey s ah s sil w ah z ah m er aa sh sil",
+    "wrd": "the oasis was a mirage",
+    "ground_truth_phn_ends": "2240 2700 4469 7018 9360 11170 12000 13560 14318 14773 16129 17350 18120 19640 22516 26650 29075 31680"
+  },
+  "MGRT0_SX370.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR7/MGRT0/SX370.WAV",
+    "duration": 3.36,
+    "spk_id": "MGRT0",
+    "phn": "sil dh eh n oy z sil p r aa sil l m sil g r ow z sil m aa r ah n oy ih ng iy sil ch sil d ey sil",
+    "wrd": "that noise problem grows more annoying each day",
+    "ground_truth_phn_ends": "2230 3219 4160 6374 9240 10520 11160 12264 13133 15320 15651 17440 19200 19760 20420 21263 24220 25210 25912 27035 28616 29317 31480 32720 36762 37840 38880 41707 42290 43670 44740 45040 49561 53680"
+  },
+  "MGRT0_SI1450.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR7/MGRT0/SI1450.WAV.wav",
+    "duration": 6.2144375,
+    "spk_id": "MGRT0",
+    "phn": "sil m iy sil t s sil dh er r ey dx iy ey sh n sil p r aa s eh s ih ng ah v m iy sil t hh eh z r iy s iy v sil d ih sil k s sil t eh n s ih v ih n v eh s sil t ih sil g ey sh ih n sil",
+    "wrd": "meats the radiation processing of meat has received extensive investigation",
+    "ground_truth_phn_ends": "2160 4080 6391 8280 8849 11050 18763 19200 19986 21430 23840 24187 25441 28140 30260 31818 33090 34310 35592 37430 39500 41357 43473 44005 45142 48266 50040 51640 54120 55010 55360 56610 59450 61050 61802 62650 65160 67255 67840 68435 69270 70040 70515 70996 72519 73390 73770 75320 76200 77540 78960 79760 81360 82378 83120 84780 86280 86720 87170 87880 88600 89320 91600 93710 94160 95781 99360"
+  },
+  "MCMJ0_SX104.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR6/MCMJ0/SX104.WAV",
+    "duration": 1.977625,
+    "spk_id": "MCMJ0",
+    "phn": "sil hh iy s sil t ow l ah sil d ay m f r ah m ah sil b eh sil g er sil",
+    "wrd": "he stole a dime from a beggar",
+    "ground_truth_phn_ends": "2004 2280 3160 4600 5080 5560 7440 8000 9240 10200 10680 14830 15916 17800 18093 18680 19400 20440 21973 22240 24920 25520 25815 27240 31600"
+  },
+  "MCMJ0_SI602.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR6/MCMJ0/SI602.WAV",
+    "duration": 3.89125,
+    "spk_id": "MCMJ0",
+    "phn": "sil b ih sil dh ih sh ih sil p s er v er ih s l ow n aw sil eh n w iy sil d ow n sil g eh sil s ow m eh n iy s ey l er z ih n ih m aa r sil",
+    "wrd": "but the ships are very slow now and we don't get so many sailors any more",
+    "ground_truth_phn_ends": "2080 2339 3160 4040 4440 5400 7080 7895 8600 8880 10040 10760 11720 13702 15000 17720 18573 20280 21240 26067 28114 29535 30161 30663 31400 32279 32680 34872 35467 36360 36920 38558 39227 40840 41800 42760 43600 43920 45080 47320 49120 49840 52440 53000 54320 54800 55960 56919 58799 60200 62240"
+  },
+  "MCMJ0_SX284.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR6/MCMJ0/SX284.WAV",
+    "duration": 3.648,
+    "spk_id": "MCMJ0",
+    "phn": "sil jh eh f th aa y uw aa r sil uw dx ih n f ey v er ih v ih s eh n sil t er f uw sil jh sil p er sil ch ih s sil",
+    "wrd": "jeff thought you argued in favor of a centrifuge purchase",
+    "ground_truth_phn_ends": "4200 5160 7227 8600 9480 11560 13186 14040 17080 17960 18798 19960 20520 21480 22120 23800 25480 26200 27800 28600 29480 30360 32200 33253 33671 34120 35091 35560 38440 40040 40920 41960 43112 43640 45240 46098 47160 48200 53480 58320"
+  },
+  "MCMJ0_SX374.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR6/MCMJ0/SX374.WAV.wav",
+    "duration": 2.2528125,
+    "spk_id": "MCMJ0",
+    "phn": "sil jh aa n sil k l iy n z sil sh eh l f ih sh f er ah l ih v ih ng sil",
+    "wrd": "john cleans shellfish for a living",
+    "ground_truth_phn_ends": "2200 3240 6120 7160 8104 9480 10306 11960 13240 14680 16760 18760 20253 20804 22520 23960 25119 26440 27780 28360 29320 30760 31880 32960 33400 36000"
+  },
+  "MCMJ0_SI1094.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR6/MCMJ0/SI1094.WAV.wav",
+    "duration": 3.7568125,
+    "spk_id": "MCMJ0",
+    "phn": "sil m eh r ih sil k ih n uw s sil p ey sil p er r ih v y uw er z l ay sil t ih sil k aa l hh ih z sil p l ey s sil n iy ih l ih s sil t ah sil",
+    "wrd": "american newspaper reviewers like to call his plays nihilistic",
+    "ground_truth_phn_ends": "2189 3560 4640 5200 5960 6558 7480 8146 10600 11400 12440 13160 13880 14920 15880 16440 17921 19091 20135 21597 21973 22725 26193 28286 29213 30600 31400 32119 32680 33320 34600 36097 36962 37400 38520 39480 40440 41274 42306 43960 45167 46072 47631 48801 50040 50920 52360 53880 54360 54880 56086 60080"
+  },
+  "MCMJ0_SI464.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR6/MCMJ0/SI464.WAV",
+    "duration": 3.89125,
+    "spk_id": "MCMJ0",
+    "phn": "sil dh ah sil p r aa s sil p eh sil t ih v sil k ah dx ih ng sil b ae sil k s sil eh n ih ng sil ih z n ah n sil p l eh z ih n w ah n f er eh n iy sil g ah v er n er sil",
+    "wrd": "the prospect of cutting back spending is an unpleasant one for any governor",
+    "ground_truth_phn_ends": "1885 2439 2840 3880 4840 5426 6600 7480 8360 8680 10120 11160 11640 12440 13280 14120 15240 15840 16240 17800 18680 19320 19600 21720 22520 22960 24440 25480 27000 28120 28950 30704 33002 34088 35174 36553 37932 38680 39560 40396 41026 42040 43080 43755 44360 45844 46920 47320 49480 50437 51440 51880 53111 54155 54440 56200 57160 57720 58280 60040 62240"
+  },
+  "MCMJ0_SX14.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR6/MCMJ0/SX14.WAV.wav",
+    "duration": 2.944,
+    "spk_id": "MCMJ0",
+    "phn": "sil b ah f aa r th er z sil d ey z ih sil g z ae m r ih v y uw eh v r ih f aa r m y ih l ah sil",
+    "wrd": "before thursday's exam review every formula",
+    "ground_truth_phn_ends": "2474 3087 3511 5640 7080 7800 9240 11800 12440 12880 13040 15160 16083 16877 17518 18005 19160 22349 23686 24733 25483 26840 28407 30440 32520 33240 33666 34520 36920 37826 38280 39436 40020 40600 41315 42360 47040"
+  },
+  "MCMJ0_SX194.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR6/MCMJ0/SX194.WAV",
+    "duration": 1.945625,
+    "spk_id": "MCMJ0",
+    "phn": "sil dh ey ih n sil jh oy ih w eh n ay aa sil d ih sh ih n sil",
+    "wrd": "they enjoy it when i audition",
+    "ground_truth_phn_ends": "1719 2729 5149 6360 7120 7480 8600 11530 13493 16199 17800 18520 20887 23000 23640 24040 25800 27400 27880 28920 31120"
+  },
+  "FMGD0_SI934.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR6/FMGD0/SI934.WAV.wav",
+    "duration": 3.47525,
+    "spk_id": "FMGD0",
+    "phn": "sil ah th aa r er dx iy s ey dh eh dx ow l sil s sil t er z aa r ey sil p r ay m sil t aa r sil g ih sil",
+    "wrd": "authorities say that oldsters are a prime target",
+    "ground_truth_phn_ends": "2120 3320 4730 5973 7101 8020 8362 10067 12360 15560 16490 17640 18240 19968 21440 21723 23501 23830 24430 27330 28792 30663 31916 33320 34200 35680 36804 38320 39593 40270 41130 42736 44440 44974 45218 46398 55520"
+  },
+  "FMGD0_SX34.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR6/FMGD0/SX34.WAV.wav",
+    "duration": 2.361625,
+    "spk_id": "FMGD0",
+    "phn": "sil d ow n sil d uw sil ch aa r l iy z sil d er dx iy sil d ih sh ih z sil",
+    "wrd": "don't do charlie's dirty dishes",
+    "ground_truth_phn_ends": "3690 4000 5932 6536 8189 8470 9880 10860 12027 13159 14161 15164 16520 17740 18080 18450 20200 20600 21720 22750 23030 24830 26506 28731 31020 37680"
+  },
+  "FMGD0_SX394.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR6/FMGD0/SX394.WAV",
+    "duration": 2.361625,
+    "spk_id": "FMGD0",
+    "phn": "sil k ae l s iy ih m ey sil s sil b ow n z n sil t iy th s sil t r aa ng sil",
+    "wrd": "calcium makes bones and teeth strong",
+    "ground_truth_phn_ends": "3780 4690 6306 7200 8940 10026 10529 12023 13800 14380 15200 16640 16870 19120 20270 21670 22760 23560 24350 25880 26861 28741 29480 30160 31386 34913 36093 37680"
+  },
+  "FMGD0_SI2194.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR6/FMGD0/SI2194.WAV",
+    "duration": 4.72325,
+    "spk_id": "FMGD0",
+    "phn": "sil hh iy hh eh sil f aa l ih n sil t uw ih s aa f sil jh aa sil eh n aw dh ih sil jh aa sil w ah z sil g aa n ih n hh iy w uh s sil t r ae n sil d ih sil",
+    "wrd": "he had fallen into a soft job and now the job was gone and he was stranded",
+    "ground_truth_phn_ends": "1851 2704 4845 6099 7268 7690 9590 11738 13242 15176 16214 16830 17650 19383 19807 21639 23979 25080 25970 26652 31560 36640 38064 39455 42280 42880 43880 44400 44900 47958 48894 49373 50040 51091 51820 52230 54851 55477 56382 57081 57800 59293 60281 61310 63019 63515 64059 65066 67080 68040 68370 68560 69640 75520"
+  },
+  "FMGD0_SX214.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR6/FMGD0/SX214.WAV.wav",
+    "duration": 3.02725,
+    "spk_id": "FMGD0",
+    "phn": "sil dh ah m aa r n ih ng sil d uw aa n dh ah s sil p ay dx er w eh sil g l ih s eh n sil d ih n dh ah s ah n sil",
+    "wrd": "the morning dew on the spider web glistened in the sun",
+    "ground_truth_phn_ends": "2160 2468 3080 4187 5723 6226 7220 7835 9120 9980 10240 12532 13699 14796 15001 15489 16760 17887 18156 20694 21086 22308 24522 25900 27514 28290 29159 29840 31990 32960 34525 34940 35270 36903 38173 38481 38910 41180 44638 46106 48320"
+  },
+  "FMGD0_SX124.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR6/FMGD0/SX124.WAV.wav",
+    "duration": 3.7504375,
+    "spk_id": "FMGD0",
+    "phn": "sil aa sil jh ih sil k s sil m ey sil d ih v sil p y uw dx er er sil b y uw dx ih f l sil",
+    "wrd": "objects made of pewter are beautiful",
+    "ground_truth_phn_ends": "2090 4982 5784 6640 7400 8270 8461 9660 10147 10923 12866 13159 13496 14175 14680 16150 17370 18088 19352 19563 22558 24839 25993 26301 26903 27950 28386 29201 31122 32796 37723"
+  },
+  "FMGD0_SI1564.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR6/FMGD0/SI1564.WAV.wav",
+    "duration": 4.441625,
+    "spk_id": "FMGD0",
+    "phn": "sil hh ah z sil b uh n d r iy w ah z sil b aw n d ih sil b ay s sil n ey sil r eh l f eh n s ah z ae n dh eh r w er sil g r ey z ih ng sil k ae dx l sil",
+    "wrd": "husbandry was bounded by snake rail fences and there were grazing cattle",
+    "ground_truth_phn_ends": "2058 2956 4335 5263 6117 6350 7123 8200 8514 9399 10520 11571 12830 13520 14680 14961 17743 18635 18830 19880 21181 21488 23090 24680 25148 25520 27600 29360 30537 31624 32840 34790 36640 37545 39000 41086 42430 45376 46393 47000 48292 49169 50882 52560 53850 54180 55283 57274 58720 59600 60400 61000 62120 64440 64920 66722 70960"
+  },
+  "FMGD0_SX304.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR6/FMGD0/SX304.WAV.wav",
+    "duration": 2.7968125,
+    "spk_id": "FMGD0",
+    "phn": "sil ch iy sil s sil t aa sil k ih ng z r ah n dh ih f er s sil t ay m dh eh r w aa r n sil",
+    "wrd": "cheap stockings run the first time they're worn",
+    "ground_truth_phn_ends": "2260 3801 5080 5630 7599 8140 8440 11154 12510 12917 13469 15520 17040 18255 19703 20940 21158 21620 23200 25023 26600 27120 27670 30637 32360 32670 33629 34841 37328 38845 39954 41833 44640"
+  },
+  "MJDH0_SI724.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR6/MJDH0/SI724.WAV.wav",
+    "duration": 2.5664375,
+    "spk_id": "MJDH0",
+    "phn": "sil ih sil s ih s sil t r iy m l ay n r ay f l f ae s sil t n w ah l m ey sil d sil",
+    "wrd": "it's a streamlined rifle fast and well made",
+    "ground_truth_phn_ends": "2920 3920 4290 5230 5810 7519 8090 8890 9274 10443 11658 12616 14203 14926 16375 18371 20595 22140 24563 26875 28281 28900 29370 30190 31481 32584 33211 34548 37920 38600 39160 41040"
+  },
+  "MJDH0_SI1354.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR6/MJDH0/SI1354.WAV.wav",
+    "duration": 4.8128125,
+    "spk_id": "MJDH0",
+    "phn": "sil w ih th ih n ah l aa r sil jh er s ow sh l s ih s sil t ah m aa r dh ih s sil t r ah sil k sh er l n f ah ng sil sh n l s ah sil s ih s sil t ah m s sil",
+    "wrd": "within the larger social system are the structural and functional subsystems",
+    "ground_truth_phn_ends": "2320 2813 3400 4650 5898 6984 7603 8939 10527 11321 11881 12950 14036 16543 18381 20428 21130 23480 24520 25984 26610 26925 27530 28593 30830 31837 32550 33503 36053 36620 37230 37806 38543 39140 39519 41405 42485 43714 44314 46170 47040 47734 48060 49840 50658 52509 55146 56190 57237 58830 59800 61120 61710 62080 62516 64100 66210 76960"
+  },
+  "MJDH0_SX4.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR6/MJDH0/SX4.WAV",
+    "duration": 2.32325,
+    "spk_id": "MJDH0",
+    "phn": "sil jh ey n m ey er n m aa r m ah n iy sil b ay w er sil k ih ng hh aa r sil d sil",
+    "wrd": "jane may earn more money by working hard",
+    "ground_truth_phn_ends": "2650 3330 5400 6200 6744 8814 10819 11562 12616 13744 14704 16117 17389 17706 18840 20040 20364 21682 23711 24760 25850 26700 27133 28166 29830 31913 33320 34247 35240 37120"
+  },
+  "MJDH0_SX364.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR6/MJDH0/SX364.WAV",
+    "duration": 4.416,
+    "spk_id": "MJDH0",
+    "phn": "sil iy sil ch ah n sil t ay m l iy ih n sil k ah m l aa s sil k ow ah n s ay dx ih w ih th ah sil b r ey sil d aw n ah v ih hh iy dx iy ng s ih s sil t m sil p aa r sil",
+    "wrd": "each untimely income loss coincided with the breakdown of a heating system part",
+    "ground_truth_phn_ends": "2120 3801 4320 5639 6625 7337 8307 9563 11640 12532 13326 14454 15520 16335 17000 18050 18629 19996 21096 23339 25023 26070 27260 28616 28997 29950 31791 33796 34120 34963 36280 36887 38675 38949 40420 40680 41293 42520 44552 44877 47320 47720 48484 50400 51027 52907 54080 54440 55240 56400 58084 58920 60260 60830 61160 62269 63370 64290 65528 66920 70640"
+  },
+  "MJDH0_SX94.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR6/MJDH0/SX94.WAV.wav",
+    "duration": 2.7328125,
+    "spk_id": "MJDH0",
+    "phn": "sil y ah ng s sil t uw z sil l ah v sil k aa m ih n sil k ae n sil d iy z sil t r iy sil s sil",
+    "wrd": "youngsters love common candy as treats",
+    "ground_truth_phn_ends": "2160 2868 3654 4464 5837 6490 6920 8330 9598 9996 10500 11923 13080 13670 14870 16319 17003 17480 18193 18980 20360 22239 22906 23229 23443 25107 26840 27361 28829 29785 31131 32360 34780 43680"
+  },
+  "MJDH0_SI1984.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR6/MJDH0/SI1984.WAV",
+    "duration": 1.33125,
+    "spk_id": "MJDH0",
+    "phn": "sil eh n w ah dx ay z dh ey w er sil",
+    "wrd": "and what eyes they were",
+    "ground_truth_phn_ends": "2520 3258 3835 4975 5979 6440 10050 11520 12320 13618 15791 18360 21280"
+  },
+  "MJDH0_SX274.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR6/MJDH0/SX274.WAV",
+    "duration": 3.136,
+    "spk_id": "MJDH0",
+    "phn": "sil k l ih f w ih s uw dh sil b ay dh ah l ih sil sh er r iy ih s sil m ih s aa sh sil",
+    "wrd": "cliff was soothed by the luxurious massage",
+    "ground_truth_phn_ends": "2780 3620 4000 4589 6480 7018 7530 10151 12760 13560 14690 14960 16083 17250 17810 19383 20040 21216 22710 23937 25315 26067 26880 28281 28967 29518 29994 31800 36070 38725 40000"
+  },
+  "MJDH0_SX184.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR6/MJDH0/SX184.WAV.wav",
+    "duration": 2.137625,
+    "spk_id": "MJDH0",
+    "phn": "sil dh ih sil k ae sil s sil m iy aw oy z hh er sil s sil m ay ih er z sil",
+    "wrd": "the cat's meow always hurts my ears",
+    "ground_truth_phn_ends": "2192 2448 2897 4143 5285 6684 7440 8420 9615 9895 11439 14955 17925 19440 20040 21240 22080 22730 23436 23968 25357 27024 29410 31850 34160"
+  },
+  "FPAS0_SX44.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR2/FPAS0/SX44.WAV",
+    "duration": 2.2464375,
+    "spk_id": "FPAS0",
+    "phn": "sil b ae s sil k ih sil b aa l sil k ih n sil b iy ih n eh n sil t er sil ch ey n ih ng s sil p aa r sil",
+    "wrd": "basketball can be an entertaining sport",
+    "ground_truth_phn_ends": "2180 2370 4200 5180 5780 6160 6600 7330 7460 8886 9600 10430 10760 11488 12280 12840 13097 14203 14621 15195 16640 17213 17540 18180 18925 19436 20311 22182 23060 23686 24860 26026 27370 27630 29660 31280 35840"
+  },
+  "FPAS0_SX224.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR2/FPAS0/SX224.WAV",
+    "duration": 1.6128125,
+    "spk_id": "FPAS0",
+    "phn": "sil hh aw sil g uh dx ih z y er ih n sil d er ih n s sil",
+    "wrd": "how good is your endurance",
+    "ground_truth_phn_ends": "4302 5330 6407 7530 7670 9120 9520 10736 12090 12992 14203 14955 15880 16280 16542 19091 20520 21260 23530 25760"
+  },
+  "FPAS0_SI1272.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR2/FPAS0/SI1272.WAV.wav",
+    "duration": 1.856,
+    "spk_id": "FPAS0",
+    "phn": "sil l ae sil r ih sil t er iy ae s sil t r ah f ih z ih sil k s sil",
+    "wrd": "laboratory astrophysics",
+    "ground_truth_phn_ends": "2880 3843 5320 5806 6391 6749 7480 8450 10443 11989 13720 14880 15190 15750 16040 16629 18730 20083 21160 22680 23640 24104 26360 29600"
+  },
+  "FPAS0_SX314.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR2/FPAS0/SX314.WAV.wav",
+    "duration": 2.937625,
+    "spk_id": "FPAS0",
+    "phn": "sil ih f sil p iy sil p l w er m aa r sil jh eh n er ih s dh eh r sil b iy n ow n iy sil d f er w eh l f eh r sil",
+    "wrd": "if people were more generous there would be no need for welfare",
+    "ground_truth_phn_ends": "2226 3480 4280 5040 5400 6760 7450 7750 8731 9608 10920 11989 13201 13960 14872 15480 17378 18176 19634 20080 21120 22070 23018 24396 25160 25368 26360 27488 29744 31080 33086 33900 34044 35320 36261 37597 39053 39960 41740 43194 45080 46960"
+  },
+  "FPAS0_SX134.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR2/FPAS0/SX134.WAV",
+    "duration": 2.944,
+    "spk_id": "FPAS0",
+    "phn": "sil d ih s eh m sil b er ng sil jh y ae n y uw er ih n ay s sil m ah n th s sil t ih s sil p eh n ih n m ay ae m iy sil",
+    "wrd": "december and january are nice months to spend in miami",
+    "ground_truth_phn_ends": "2240 2760 3230 4870 6240 6931 7202 7413 8981 9694 9900 10480 10945 12741 13240 13827 14997 17503 18046 19133 21460 23190 23480 24480 26000 26600 27301 28449 28950 29818 30549 31880 32810 33070 34361 35300 36093 36762 37360 40410 41920 43000 45005 47040"
+  },
+  "FPAS0_SI944.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR2/FPAS0/SI944.WAV",
+    "duration": 2.35525,
+    "spk_id": "FPAS0",
+    "phn": "sil ih v dh ah f aa r m ih z r eh n sil t ih sil dh ah r eh n m ah s sil b iy sil p ey sil d sil",
+    "wrd": "if the farm is rented the rent must be paid",
+    "ground_truth_phn_ends": "2026 2760 3280 3570 4720 6780 8104 9240 10067 10694 11989 13284 15040 15398 15980 16730 17560 18468 18673 19300 20720 22144 22579 23680 24500 25380 25840 26320 27154 28350 28940 33211 33954 35300 37600"
+  },
+  "FPAS0_SX404.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR2/FPAS0/SX404.WAV",
+    "duration": 2.777625,
+    "spk_id": "FPAS0",
+    "phn": "sil b aa r sil b er n sil p ey sil p er n l iy v z ih n ah sil b ih sil b aa n sil f ay er sil",
+    "wrd": "barb burned paper and leaves in a big bonfire",
+    "ground_truth_phn_ends": "2310 2450 4763 5920 7540 7850 10320 11280 12290 13260 15240 16230 16750 18281 19174 20595 23200 23620 24830 25306 26156 26800 28140 28410 29680 31240 31620 34320 34989 35560 36500 38725 40840 44400"
+  },
+  "FPAS0_SI2204.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR2/FPAS0/SI2204.WAV",
+    "duration": 3.85925,
+    "spk_id": "FPAS0",
+    "phn": "sil p r ih dx iy s uw n ah w uh m ih n sil k ey m ah l aa ng sil k ih r ih n ih f ow l sil d ih dx ah m sil b r ah l ih z ah w aa sil k ih ng s sil t ih sil k sil",
+    "wrd": "pretty soon a woman came along carrying a folded umbrella as a walking stick",
+    "ground_truth_phn_ends": "2160 3040 3373 4040 4440 5530 7340 9107 9357 9859 10819 11800 12640 13332 13710 14300 15180 16360 17295 17879 19133 21760 22301 22650 23890 24814 25942 26600 27000 27822 29820 31133 31880 32439 32710 33378 33712 35080 35880 36776 37032 38224 40187 41160 42890 44197 45116 46411 48542 49310 49970 50798 51782 53500 54095 54651 56440 57607 58526 61680"
+  },
+  "MWEW0_SX371.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR2/MWEW0/SX371.WAV.wav",
+    "duration": 2.89925,
+    "spk_id": "MWEW0",
+    "phn": "sil r ay sil n aw m ey n aa sil b iy dh ih sil b eh s sil t ay m f er sil b ih z n ih s sil m er sil jh er z sil",
+    "wrd": "right now may not be the best time for business mergers",
+    "ground_truth_phn_ends": "2480 3240 4651 5311 5901 8840 9817 10920 11560 13702 14958 15129 16018 16763 17400 18600 18800 20870 22024 22832 23340 25945 26200 27670 28360 30080 30400 31776 32691 33520 34690 35480 36154 37360 39560 40260 40886 42580 44160 46320"
+  },
+  "MWEW0_SX101.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR2/MWEW0/SX101.WAV.wav",
+    "duration": 3.936,
+    "spk_id": "MWEW0",
+    "phn": "sil k ih n er sil g ah r n sil ch ih l sil d er n sil d eh sil k er r ey sil dh er sil k l ae s r uw m z f er aa l hh aa l ah sil d ey z sil",
+    "wrd": "kindergarten children decorate their classrooms for all holidays",
+    "ground_truth_phn_ends": "2200 2700 3560 4120 5000 5560 5828 7706 8640 9843 10151 11943 12908 14123 14640 14833 16320 17228 18060 18340 20010 20840 21330 21806 22895 24713 25710 26040 27154 28460 29500 30218 32125 33931 34386 35007 35988 37341 38500 39519 41483 42651 43301 45800 46678 47365 47782 48200 50646 53000 62960"
+  },
+  "MWEW0_SX11.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR2/MWEW0/SX11.WAV",
+    "duration": 1.6768125,
+    "spk_id": "MWEW0",
+    "phn": "sil hh iy w l ah l aw er r eh r l ay sil",
+    "wrd": "he will allow a rare lie",
+    "ground_truth_phn_ends": "1410 2800 4010 4762 6218 7352 8731 12156 13777 15874 17587 18868 20052 23800 26800"
+  },
+  "MWEW0_SX191.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR2/MWEW0/SX191.WAV.wav",
+    "duration": 2.528,
+    "spk_id": "MWEW0",
+    "phn": "sil w ih sil d r aa aa l f ow n iy ae sil k y ih z ey sh ih n z ih w ah n sil s sil",
+    "wrd": "withdraw all phony accusations at once",
+    "ground_truth_phn_ends": "2106 2649 3400 4510 5430 6642 9023 10360 11530 13950 15800 16167 17921 20093 20840 21450 22139 22653 23490 26109 27522 28170 29040 29785 31528 33953 35360 35789 36360 37930 40400"
+  },
+  "MWEW0_SI1361.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR2/MWEW0/SI1361.WAV.wav",
+    "duration": 2.54725,
+    "spk_id": "MWEW0",
+    "phn": "sil b ah dx ih n ih s sil w ah n s eh sil sh n w iy w eh l sil k ah m sil d ah aa dx ih dx er z sil",
+    "wrd": "but in this one section we welcomed auditors",
+    "ground_truth_phn_ends": "2480 2860 3690 4123 5023 6160 7410 8620 9457 10276 11550 12323 14248 15958 16390 17880 19284 20093 21054 23060 23937 24981 25930 26240 26861 28083 28370 28660 29182 32119 32520 33760 34485 36190 38450 40720"
+  },
+  "MWEW0_SX281.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR2/MWEW0/SX281.WAV",
+    "duration": 3.3408125,
+    "spk_id": "MWEW0",
+    "phn": "sil k aa r iy ih n sil t r ih sh sil p l ey sil t ae sil w ih sil b iy sil ch sil b aa l z f er aw er z sil",
+    "wrd": "cory and trish played tag with beach balls for hours",
+    "ground_truth_phn_ends": "2250 3190 4720 6015 7268 8146 8778 9330 11030 11766 13159 14287 15600 16230 16940 18360 19882 20750 23627 24490 25107 25483 27471 27754 29206 29860 30560 31840 32079 34326 35360 36560 37760 39853 42340 44583 46680 53440"
+  },
+  "MWEW0_SI1991.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR2/MWEW0/SI1991.WAV",
+    "duration": 4.025625,
+    "spk_id": "MWEW0",
+    "phn": "sil l aa dx ah v sil p iy sil p l w l r ow m dh ih s sil t r iy sil s ih n sil k aa s sil t uw m z ih n m ae s sil s sil ih n hh ae v ih ng ah sil b aa l sil",
+    "wrd": "lot of people will roam the streets in costumes and masks and having a ball",
+    "ground_truth_phn_ends": "2327 3383 4529 4861 5430 5909 7647 7866 8898 9840 10397 11299 12866 14223 16068 17838 19026 19205 20110 21884 22170 22800 23770 24839 25360 26431 26892 27726 28530 29340 31874 32796 33340 33810 34548 35951 36822 37824 38642 39353 42819 44441 45046 47310 48050 49083 49834 50739 52280 52837 53800 54508 55416 56785 57096 59270 60595 61777"
+  },
+  "MWEW0_SI731.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR2/MWEW0/SI731.WAV.wav",
+    "duration": 1.9968125,
+    "spk_id": "MWEW0",
+    "phn": "sil ah f uw y ih er z l ey dx er dh ih sil d ow m f eh l ih n sil",
+    "wrd": "a few years later the dome fell in",
+    "ground_truth_phn_ends": "2880 3600 5824 7352 8840 9733 10861 12031 12866 14920 15320 16877 17790 18600 19690 19890 22251 23463 25310 26763 28240 29200 29857 31920"
+  },
+  "MTAS1_SI838.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR2/MTAS1/SI838.WAV",
+    "duration": 2.649625,
+    "spk_id": "MTAS1",
+    "phn": "sil ih n sil k r iy s iy ng sil t eh m sil p ow ah v n uw sil p r aa dx ih sil d ih v eh l ah sil m ih n sil",
+    "wrd": "increasing tempo of new product development",
+    "ground_truth_phn_ends": "2440 3527 4046 4880 5990 6473 7440 9160 10280 11280 12600 13630 14800 15331 16209 16590 19467 21320 22828 23251 24920 26090 27180 27840 29160 29640 30520 32250 32509 33086 34548 35968 36804 37800 38460 39088 40082 40691 42320"
+  },
+  "MTAS1_SX388.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR2/MTAS1/SX388.WAV.wav",
+    "duration": 4.0384375,
+    "spk_id": "MTAS1",
+    "phn": "sil hh er r ay sil hh ae n sil d sil ey sil k s sil w ih n eh v er dh ah sil b eh r ih m eh sil t er sil p r eh sh er sil ch ey n sil jh ih z sil",
+    "wrd": "her right hand aches whenever the barometric pressure changes",
+    "ground_truth_phn_ends": "2080 3000 4093 5160 7960 8440 10610 14240 14920 16000 16560 18960 21960 23300 23728 25890 29920 30306 31080 31560 33295 34631 35480 36410 37000 38310 38730 39770 40313 41199 42201 43720 44310 45410 46160 48080 49070 49556 50530 52040 52938 54110 55180 57240 57810 58356 58984 59998 62520 64559"
+  },
+  "MTAS1_SX28.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR2/MTAS1/SX28.WAV",
+    "duration": 2.4768125,
+    "spk_id": "MTAS1",
+    "phn": "sil b ey sil dh ae sil g aa r sil d f er w ah n sil g ae l ah n sil ah v sil g ae s sil",
+    "wrd": "beg that guard for one gallon of gas",
+    "ground_truth_phn_ends": "2160 2370 4960 5639 6057 7766 9860 10180 12520 13800 14360 14872 16260 17086 18339 19425 20458 21310 21500 23519 24605 25274 26200 27837 28645 29880 30700 31050 34800 36640 39520"
+  },
+  "MTAS1_SX118.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR2/MTAS1/SX118.WAV.wav",
+    "duration": 2.816,
+    "spk_id": "MTAS1",
+    "phn": "sil k ah m sil b ay n aa l dh iy ih ng sil g r iy dx iy ih n s sil ih n ah l aa r sil jh sil b ow l sil",
+    "wrd": "combine all the ingredients in a large bowl",
+    "ground_truth_phn_ends": "2180 2940 3424 4796 5547 5726 9960 10597 14493 15800 16710 18172 19240 20171 21280 21890 22553 23880 24400 25441 26443 27550 29110 30579 31206 31791 32710 34239 35760 36520 37150 37650 39030 39370 41389 42726 44960"
+  },
+  "MTAS1_SI2098.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR2/MTAS1/SI2098.WAV.wav",
+    "duration": 3.1808125,
+    "spk_id": "MTAS1",
+    "phn": "sil hh iy sil g ey v ey sh aa r sil hh aa r sil d l ae f ih n l uh sil t ih hh er n ow iy ng l iy sil",
+    "wrd": "he gave a short hard laugh and looked at her knowingly",
+    "ground_truth_phn_ends": "2180 2740 3623 4117 4680 6280 7240 8370 10750 12840 13800 14319 16330 18200 19240 19930 20344 21556 25640 26876 28838 29967 31262 33480 34670 35174 36302 38490 40126 41139 43191 44440 45280 46408 47829 50800"
+  },
+  "MTAS1_SX208.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR2/MTAS1/SX208.WAV.wav",
+    "duration": 3.513625,
+    "spk_id": "MTAS1",
+    "phn": "sil r aa sil b s ae sil b ay dh ah sil p aa n sil d ih sil ih n s sil k eh sil ch sil dh ah s sil t r ey sil g iy s sil",
+    "wrd": "rob sat by the pond and sketched the stray geese",
+    "ground_truth_phn_ends": "2240 3613 6224 7000 7473 9740 12723 15013 15211 16686 17580 18130 19380 20560 24739 25040 25778 26195 26958 28812 29517 30590 32568 33590 34050 36480 37240 38770 40520 41205 41596 43240 43793 44570 45406 47080 48120 48530 51155 54120 56160"
+  },
+  "MTAS1_SI1473.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR2/MTAS1/SI1473.WAV.wav",
+    "duration": 1.472,
+    "spk_id": "MTAS1",
+    "phn": "sil y ih dx ow n iy dx ah n ah f sil hh ah n iy sil",
+    "wrd": "you don't eat enough honey",
+    "ground_truth_phn_ends": "2120 2539 3007 3342 5597 5886 8438 8939 10026 11028 13240 14880 16319 17440 18920 19560 21160 23440"
+  },
+  "MTAS1_SX298.WAV": {
+    "wav": "/rds/project/rds-xyBFuSj0hm0/MLMI2.M2022/data/TEST/DR2/MTAS1/SX298.WAV",
+    "duration": 3.1808125,
+    "spk_id": "MTAS1",
+    "phn": "sil ay sil d r eh dh ah n aa sil b ay dh iy sh uw z dh ih n sil b iy ow v er sil ch aa r sil jh sil d sil",
+    "wrd": "i'd rather not buy these shoes than be overcharged",
+    "ground_truth_phn_ends": "2200 3640 4123 4424 5586 6840 7680 8438 9232 10692 13240 13470 16880 17820 19580 22530 26600 27600 28720 29720 30442 31181 31450 33380 36045 37232 37880 38710 40040 42333 43809 44750 45960 46620 47320 50800"
+  }
+}
